@@ -1,0 +1,15 @@
+method: bayes
+metric:
+  goal: minimize
+  name: eval_loss
+parameters:
+  batch_size:
+    values: [8, 16, 32, 64]
+  learning_rate:
+    distribution: log_uniform_values
+    min: 1e-4
+    max: 1e-2
+  lr_scheduler_type:
+    values: ['cosine_with_restarts', 'linear', 'cosine', 'polynomial', 'constant']
+  weight_decay:
+    values: [0.0, 0.25, 0.05, 0.1]

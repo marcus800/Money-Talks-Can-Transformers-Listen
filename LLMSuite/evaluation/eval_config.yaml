@@ -1,0 +1,16 @@
+llm:
+  ctx_n: 512
+  temperature: 0.7
+  top_k: 40
+  top_p: 0.9
+  num_predict: 256
+  model_source: hf
+
+llm_models: [
+  meta-llama/Llama-2-7b-chat-hf,
+  seanmemery/MLP-FinLLM-7b-it,
+  seanmemery/MLP-FinLLM-7b-it-FX,
+  #seanmemery/MLP-FinLLM-dpo-7b,
+]
+N_responses_llm: 5
+template: S&P500_gpt.j

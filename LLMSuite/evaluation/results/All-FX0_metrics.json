@@ -1,0 +1,297 @@
+{
+    "RandomChoice Not Weighted": {
+        "accuracy_total": 0.17647058823529413,
+        "accuracy_per_class": {
+            "MAJOR_DECREASE": 0.3076923076923077,
+            "MINOR_DECREASE": 0.175,
+            "NO_CHANGE": 0.2857142857142857,
+            "MINOR_INCREASE": 0.13513513513513514,
+            "MAJOR_INCREASE": 0.0
+        },
+        "precision": {
+            "MAJOR_DECREASE": 0.15384615384615385,
+            "MINOR_DECREASE": 0.3888888888888889,
+            "NO_CHANGE": 0.11764705882352941,
+            "MINOR_INCREASE": 0.22727272727272727,
+            "MAJOR_INCREASE": 0.0
+        },
+        "recall": {
+            "MAJOR_DECREASE": 0.3076923076923077,
+            "MINOR_DECREASE": 0.17500000000000002,
+            "NO_CHANGE": 0.2857142857142857,
+            "MINOR_INCREASE": 0.13513513513513514,
+            "MAJOR_INCREASE": 0.0
+        },
+        "f1": {
+            "MAJOR_DECREASE": 0.20512820512820515,
+            "MINOR_DECREASE": 0.24137931034482762,
+            "NO_CHANGE": 0.16666666666666666,
+            "MINOR_INCREASE": 0.16949152542372883,
+            "MAJOR_INCREASE": 0
+        },
+        "percentage_of_each_class_predicted": {
+            "MAJOR_DECREASE": 0.2549019607843137,
+            "MINOR_INCREASE": 0.21568627450980393,
+            "MAJOR_INCREASE": 0.18627450980392157,
+            "MINOR_DECREASE": 0.17647058823529413,
+            "NO_CHANGE": 0.16666666666666666
+        },
+        "percentage_of_each_class_dataset": {
+            "MINOR_DECREASE": 0.39215686274509803,
+            "MINOR_INCREASE": 0.3627450980392157,
+            "MAJOR_DECREASE": 0.12745098039215685,
+            "NO_CHANGE": 0.06862745098039216,
+            "MAJOR_INCREASE": 0.049019607843137254
+        }
+    },
+    "RandomChoice Weighed": {
+        "accuracy_total": 0.2647058823529412,
+        "accuracy_per_class": {
+            "MAJOR_DECREASE": 0.07692307692307693,
+            "MINOR_DECREASE": 0.35,
+            "NO_CHANGE": 0.0,
+            "MINOR_INCREASE": 0.32432432432432434,
+            "MAJOR_INCREASE": 0.0
+        },
+        "precision": {
+            "MAJOR_DECREASE": 0.2,
+            "MINOR_DECREASE": 0.368421052631579,
+            "NO_CHANGE": 0.0,
+            "MINOR_INCREASE": 0.3157894736842105,
+            "MAJOR_INCREASE": 0.0
+        },
+        "recall": {
+            "MAJOR_DECREASE": 0.07692307692307693,
+            "MINOR_DECREASE": 0.35000000000000003,
+            "NO_CHANGE": 0.0,
+            "MINOR_INCREASE": 0.32432432432432434,
+            "MAJOR_INCREASE": 0.0
+        },
+        "f1": {
+            "MAJOR_DECREASE": 0.1111111111111111,
+            "MINOR_DECREASE": 0.3589743589743589,
+            "NO_CHANGE": 0,
+            "MINOR_INCREASE": 0.32,
+            "MAJOR_INCREASE": 0
+        },
+        "percentage_of_each_class_predicted": {
+            "MINOR_INCREASE": 0.37254901960784315,
+            "MINOR_DECREASE": 0.37254901960784315,
+            "MAJOR_INCREASE": 0.12745098039215685,
+            "NO_CHANGE": 0.0784313725490196,
+            "MAJOR_DECREASE": 0.049019607843137254
+        },
+        "percentage_of_each_class_dataset": {
+            "MINOR_DECREASE": 0.39215686274509803,
+            "MINOR_INCREASE": 0.3627450980392157,
+            "MAJOR_DECREASE": 0.12745098039215685,
+            "NO_CHANGE": 0.06862745098039216,
+            "MAJOR_INCREASE": 0.049019607843137254
+        }
+    },
+    "LR": {
+        "accuracy_total": 0.4117647058823529,
+        "accuracy_per_class": {
+            "MAJOR_DECREASE": 0.0,
+            "MINOR_DECREASE": 0.4,
+            "NO_CHANGE": 0.0,
+            "MINOR_INCREASE": 0.7027027027027027,
+            "MAJOR_INCREASE": 0.0
+        },
+        "precision": {
+            "MAJOR_DECREASE": 0,
+            "MINOR_DECREASE": 0.45714285714285713,
+            "NO_CHANGE": 0,
+            "MINOR_INCREASE": 0.38805970149253727,
+            "MAJOR_INCREASE": 0
+        },
+        "recall": {
+            "MAJOR_DECREASE": 0.0,
+            "MINOR_DECREASE": 0.4,
+            "NO_CHANGE": 0.0,
+            "MINOR_INCREASE": 0.7027027027027026,
+            "MAJOR_INCREASE": 0.0
+        },
+        "f1": {
+            "MAJOR_DECREASE": 0,
+            "MINOR_DECREASE": 0.42666666666666664,
+            "NO_CHANGE": 0,
+            "MINOR_INCREASE": 0.4999999999999999,
+            "MAJOR_INCREASE": 0
+        },
+        "percentage_of_each_class_predicted": {
+            "MINOR_INCREASE": 0.6568627450980392,
+            "MINOR_DECREASE": 0.3431372549019608
+        },
+        "percentage_of_each_class_dataset": {
+            "MINOR_DECREASE": 0.39215686274509803,
+            "MINOR_INCREASE": 0.3627450980392157,
+            "MAJOR_DECREASE": 0.12745098039215685,
+            "NO_CHANGE": 0.06862745098039216,
+            "MAJOR_INCREASE": 0.049019607843137254
+        }
+    },
+    "LSTM1": {
+        "accuracy_total": 0.4019607843137255,
+        "accuracy_per_class": {
+            "MAJOR_DECREASE": 0.0,
+            "MINOR_DECREASE": 0.475,
+            "NO_CHANGE": 0.0,
+            "MINOR_INCREASE": 0.5945945945945946,
+            "MAJOR_INCREASE": 0.0
+        },
+        "precision": {
+            "MAJOR_DECREASE": 0,
+            "MINOR_DECREASE": 0.4318181818181818,
+            "NO_CHANGE": 0,
+            "MINOR_INCREASE": 0.37931034482758624,
+            "MAJOR_INCREASE": 0
+        },
+        "recall": {
+            "MAJOR_DECREASE": 0.0,
+            "MINOR_DECREASE": 0.47500000000000003,
+            "NO_CHANGE": 0.0,
+            "MINOR_INCREASE": 0.5945945945945946,
+            "MAJOR_INCREASE": 0.0
+        },
+        "f1": {
+            "MAJOR_DECREASE": 0,
+            "MINOR_DECREASE": 0.45238095238095244,
+            "NO_CHANGE": 0,
+            "MINOR_INCREASE": 0.46315789473684216,
+            "MAJOR_INCREASE": 0
+        },
+        "percentage_of_each_class_predicted": {
+            "MINOR_INCREASE": 0.5686274509803921,
+            "MINOR_DECREASE": 0.43137254901960786
+        },
+        "percentage_of_each_class_dataset": {
+            "MINOR_DECREASE": 0.39215686274509803,
+            "MINOR_INCREASE": 0.3627450980392157,
+            "MAJOR_DECREASE": 0.12745098039215685,
+            "NO_CHANGE": 0.06862745098039216,
+            "MAJOR_INCREASE": 0.049019607843137254
+        }
+    },
+
+    "gpt3.5": {
+        "accuracy_total": 0.29411764705882354,
+        "accuracy_per_class": {
+            "MAJOR_DECREASE": 0.38461538461538464,
+            "MINOR_DECREASE": 0.325,
+            "NO_CHANGE": 0.0,
+            "MINOR_INCREASE": 0.32432432432432434,
+            "MAJOR_INCREASE": 0.0
+        },
+        "precision": {
+            "MAJOR_DECREASE": 0.3571428571428571,
+            "MINOR_DECREASE": 0.4333333333333333,
+            "NO_CHANGE": 0.0,
+            "MINOR_INCREASE": 0.375,
+            "MAJOR_INCREASE": 0.0
+        },
+        "recall": {
+            "MAJOR_DECREASE": 0.38461538461538464,
+            "MINOR_DECREASE": 0.32499999999999996,
+            "NO_CHANGE": 0.0,
+            "MINOR_INCREASE": 0.32432432432432434,
+            "MAJOR_INCREASE": 0.0
+        },
+        "f1": {
+            "MAJOR_DECREASE": 0.3703703703703703,
+            "MINOR_DECREASE": 0.3714285714285714,
+            "NO_CHANGE": 0,
+            "MINOR_INCREASE": 0.34782608695652173,
+            "MAJOR_INCREASE": 0
+        },
+        "percentage_of_each_class_predicted": {
+            "MINOR_INCREASE": 0.3137254901960784,
+            "MINOR_DECREASE": 0.29411764705882354,
+            "NO_CHANGE": 0.14705882352941177,
+            "MAJOR_DECREASE": 0.13725490196078433,
+            "MAJOR_INCREASE": 0.10784313725490197
+        },
+        "percentage_of_each_class_dataset": {
+            "MINOR_DECREASE": 0.39215686274509803,
+            "MINOR_INCREASE": 0.3627450980392157,
+            "MAJOR_DECREASE": 0.12745098039215685,
+            "NO_CHANGE": 0.06862745098039216,
+            "MAJOR_INCREASE": 0.049019607843137254
+        }
+    },
+    "meta-llama/Llama-2-7b-chat-hf-FX": {
+        "accuracy_total": 0.20588235294117646,
+        "accuracy_per_class": {
+            "MAJOR_DECREASE": 0.46153846153846156,
+            "MINOR_DECREASE": 0.225,
+            "NO_CHANGE": 0.0,
+            "MINOR_INCREASE": 0.16216216216216217,
+            "MAJOR_INCREASE": 0.0
+        },
+        "precision": {
+            "MAJOR_DECREASE": 0.12000000000000001,
+            "MINOR_DECREASE": 0.3214285714285714,
+            "NO_CHANGE": 0.0,
+            "MINOR_INCREASE": 0.39999999999999997,
+            "MAJOR_INCREASE": 0.0
+        },
+        "recall": {
+            "MAJOR_DECREASE": 0.46153846153846156,
+            "MINOR_DECREASE": 0.225,
+            "NO_CHANGE": 0.0,
+            "MINOR_INCREASE": 0.16216216216216217,
+            "MAJOR_INCREASE": 0.0
+        },
+        "f1": {
+            "MAJOR_DECREASE": 0.1904761904761905,
+            "MINOR_DECREASE": 0.2647058823529412,
+            "NO_CHANGE": 0,
+            "MINOR_INCREASE": 0.23076923076923078,
+            "MAJOR_INCREASE": 0
+        },
+        "percentage_of_each_class_predicted": {
+            "MAJOR_DECREASE": 0.49019607843137253,
+            "MINOR_DECREASE": 0.27450980392156865,
+            "MINOR_INCREASE": 0.14705882352941177,
+            "MAJOR_INCREASE": 0.06862745098039216,
+            "NO_CHANGE": 0.0196078431372549
+        }
+    },
+
+    "seanmemery/MLP-FinLLM-7b-it-FX": {
+        "accuracy_total": 0.3137254901960784,
+        "accuracy_per_class": {
+            "MAJOR_DECREASE": 0.0,
+            "MINOR_DECREASE": 0.35,
+            "NO_CHANGE": 0.0,
+            "MINOR_INCREASE": 0.4864864864864865,
+            "MAJOR_INCREASE": 0.0
+        },
+        "precision": {
+            "MAJOR_DECREASE": 0,
+            "MINOR_DECREASE": 0.34146341463414637,
+            "NO_CHANGE": 0.0,
+            "MINOR_INCREASE": 0.3103448275862069,
+            "MAJOR_INCREASE": 0
+        },
+        "recall": {
+            "MAJOR_DECREASE": 0.0,
+            "MINOR_DECREASE": 0.35000000000000003,
+            "NO_CHANGE": 0.0,
+            "MINOR_INCREASE": 0.4864864864864865,
+            "MAJOR_INCREASE": 0.0
+        },
+        "f1": {
+            "MAJOR_DECREASE": 0,
+            "MINOR_DECREASE": 0.34567901234567905,
+            "NO_CHANGE": 0,
+            "MINOR_INCREASE": 0.37894736842105264,
+            "MAJOR_INCREASE": 0
+        },
+        "percentage_of_each_class_predicted": {
+            "MINOR_INCREASE": 0.5686274509803921,
+            "MINOR_DECREASE": 0.4019607843137255,
+            "NO_CHANGE": 0.029411764705882353
+        }
+    }
+}

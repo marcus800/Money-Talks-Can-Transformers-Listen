@@ -1,0 +1,131 @@
+{
+    "RandomChoice Weighed": {
+        "accuracy_total": 0.3627450980392157,
+        "accuracy_per_class": {
+            "MAJOR_DECREASE": 0.07692307692307693,
+            "MINOR_DECREASE": 0.425,
+            "NO_CHANGE": 0.0,
+            "MINOR_INCREASE": 0.4864864864864865,
+            "MAJOR_INCREASE": 0.2
+        },
+        "precision": {
+            "MAJOR_DECREASE": 0.14285714285714285,
+            "MINOR_DECREASE": 0.4857142857142857,
+            "NO_CHANGE": 0.0,
+            "MINOR_INCREASE": 0.4,
+            "MAJOR_INCREASE": 0.2
+        },
+        "recall": {
+            "MAJOR_DECREASE": 0.07692307692307693,
+            "MINOR_DECREASE": 0.425,
+            "NO_CHANGE": 0.0,
+            "MINOR_INCREASE": 0.4864864864864865,
+            "MAJOR_INCREASE": 0.2
+        },
+        "f1": {
+            "MAJOR_DECREASE": 0.1,
+            "MINOR_DECREASE": 0.45333333333333337,
+            "NO_CHANGE": 0,
+            "MINOR_INCREASE": 0.43902439024390244,
+            "MAJOR_INCREASE": 0.20000000000000004
+        },
+        "percentage_of_each_class_predicted": {
+            "MINOR_INCREASE": 0.4411764705882353,
+            "MINOR_DECREASE": 0.3431372549019608,
+            "NO_CHANGE": 0.09803921568627451,
+            "MAJOR_DECREASE": 0.06862745098039216,
+            "MAJOR_INCREASE": 0.049019607843137254
+        },
+        "percentage_of_each_class_dataset": {
+            "MINOR_DECREASE": 0.39215686274509803,
+            "MINOR_INCREASE": 0.3627450980392157,
+            "MAJOR_DECREASE": 0.12745098039215685,
+            "NO_CHANGE": 0.06862745098039216,
+            "MAJOR_INCREASE": 0.049019607843137254
+        }
+    },
+    "LR": {
+        "accuracy_total": 0.4117647058823529,
+        "accuracy_per_class": {
+            "MAJOR_DECREASE": 0.0,
+            "MINOR_DECREASE": 0.4,
+            "NO_CHANGE": 0.0,
+            "MINOR_INCREASE": 0.7027027027027027,
+            "MAJOR_INCREASE": 0.0
+        },
+        "precision": {
+            "MAJOR_DECREASE": 0,
+            "MINOR_DECREASE": 0.45714285714285713,
+            "NO_CHANGE": 0,
+            "MINOR_INCREASE": 0.38805970149253727,
+            "MAJOR_INCREASE": 0
+        },
+        "recall": {
+            "MAJOR_DECREASE": 0.0,
+            "MINOR_DECREASE": 0.4,
+            "NO_CHANGE": 0.0,
+            "MINOR_INCREASE": 0.7027027027027026,
+            "MAJOR_INCREASE": 0.0
+        },
+        "f1": {
+            "MAJOR_DECREASE": 0,
+            "MINOR_DECREASE": 0.42666666666666664,
+            "NO_CHANGE": 0,
+            "MINOR_INCREASE": 0.4999999999999999,
+            "MAJOR_INCREASE": 0
+        },
+        "percentage_of_each_class_predicted": {
+            "MINOR_INCREASE": 0.6568627450980392,
+            "MINOR_DECREASE": 0.3431372549019608
+        },
+        "percentage_of_each_class_dataset": {
+            "MINOR_DECREASE": 0.39215686274509803,
+            "MINOR_INCREASE": 0.3627450980392157,
+            "MAJOR_DECREASE": 0.12745098039215685,
+            "NO_CHANGE": 0.06862745098039216,
+            "MAJOR_INCREASE": 0.049019607843137254
+        }
+    },
+    "LSTM1": {
+        "accuracy_total": 0.4019607843137255,
+        "accuracy_per_class": {
+            "MAJOR_DECREASE": 0.0,
+            "MINOR_DECREASE": 0.475,
+            "NO_CHANGE": 0.0,
+            "MINOR_INCREASE": 0.5945945945945946,
+            "MAJOR_INCREASE": 0.0
+        },
+        "precision": {
+            "MAJOR_DECREASE": 0,
+            "MINOR_DECREASE": 0.4318181818181818,
+            "NO_CHANGE": 0,
+            "MINOR_INCREASE": 0.37931034482758624,
+            "MAJOR_INCREASE": 0
+        },
+        "recall": {
+            "MAJOR_DECREASE": 0.0,
+            "MINOR_DECREASE": 0.47500000000000003,
+            "NO_CHANGE": 0.0,
+            "MINOR_INCREASE": 0.5945945945945946,
+            "MAJOR_INCREASE": 0.0
+        },
+        "f1": {
+            "MAJOR_DECREASE": 0,
+            "MINOR_DECREASE": 0.45238095238095244,
+            "NO_CHANGE": 0,
+            "MINOR_INCREASE": 0.46315789473684216,
+            "MAJOR_INCREASE": 0
+        },
+        "percentage_of_each_class_predicted": {
+            "MINOR_INCREASE": 0.5686274509803921,
+            "MINOR_DECREASE": 0.43137254901960786
+        },
+        "percentage_of_each_class_dataset": {
+            "MINOR_DECREASE": 0.39215686274509803,
+            "MINOR_INCREASE": 0.3627450980392157,
+            "MAJOR_DECREASE": 0.12745098039215685,
+            "NO_CHANGE": 0.06862745098039216,
+            "MAJOR_INCREASE": 0.049019607843137254
+        }
+    }
+}

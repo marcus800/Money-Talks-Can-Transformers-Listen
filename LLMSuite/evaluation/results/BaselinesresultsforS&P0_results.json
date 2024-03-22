@@ -1,0 +1,2456 @@
+{
+    "RandomChoice Weighed": [
+        [
+            "At the Federal Reserve, we are strongly committed to achieving the monetary policy goals that Congress has given us: maximum employment and price stability.",
+            "MAJOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "Today, in support of these goals, the Federal Open Market Committee kept its policy interest rate near zero and stated its expectation that an increase in this rate would soon be appropriate.",
+            "MINOR_INCREASE",
+            [
+                "MINOR_INCREASE"
+            ],
+            "MINOR_INCREASE"
+        ],
+        [
+            "As I will explain, against a backdrop of elevated inflation and a strong labor market, our policy has been adapting to the evolving economic environment, and it will continue to do so.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "Economic activity expanded at a robust pace last year, reflecting progress on vaccinations and the reopening of the economy, fiscal and monetary policy support, and the healthy financial positions of households and businesses.",
+            "MINOR_INCREASE",
+            [
+                "MINOR_INCREASE"
+            ],
+            "MINOR_INCREASE"
+        ],
+        [
+            "The recent sharp rise in COVID cases associated with the Omicron variant will surely weigh on economic growth this quarter.",
+            "MINOR_INCREASE",
+            [
+                "MAJOR_INCREASE"
+            ],
+            "MAJOR_INCREASE"
+        ],
+        [
+            "If the wave passes quickly, the economic effects should as well, and we would see a return to strong growth.",
+            "MAJOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "Over the past year, payroll employment has risen by 6.4 million jobs.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_INCREASE"
+            ],
+            "MINOR_INCREASE"
+        ],
+        [
+            "The unemployment rate has declined sharply, falling 2 percentage points over the past six months to reach 3.9 percent in December.",
+            "MINOR_INCREASE",
+            [
+                "MAJOR_INCREASE"
+            ],
+            "MAJOR_INCREASE"
+        ],
+        [
+            "Labor demand remains historically strong.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "Over time, there are good reasons to expect some further improvements in participation and employment.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_INCREASE"
+            ],
+            "MINOR_INCREASE"
+        ],
+        [
+            "Inflation remains well above our longer-run goal of 2 percent.",
+            "MINOR_INCREASE",
+            [
+                "MINOR_INCREASE"
+            ],
+            "MINOR_INCREASE"
+        ],
+        [
+            "Supply and demand imbalances related to the pandemic and [to] the reopening of the economy have continued to contribute to elevated levels of inflation.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "In particular, bottlenecks and supply constraints are limiting how quickly production can respond to higher demand in the near term.",
+            "MINOR_INCREASE",
+            [
+                "MINOR_INCREASE"
+            ],
+            "MINOR_INCREASE"
+        ],
+        [
+            "While the drivers of higher inflation have been predominantly connected to the dislocations caused by the pandemic, price increases have now spread to a broader range of goods and services.",
+            "MINOR_INCREASE",
+            [
+                "MAJOR_INCREASE"
+            ],
+            "MAJOR_INCREASE"
+        ],
+        [
+            "Wages have also risen briskly, and we are attentive to the risks that persistent real wage growth in excess of productivity [growth] could put upward pressure on inflation.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "Like most forecasters, we continue to expect inflation to decline over the course of the year.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "We understand that high inflation imposes significant hardship, especially on those least able to meet the higher costs of essentials like food, housing, and transportation.",
+            "MAJOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "In addition, we believe that the best thing we can do to support continued labor market gains is to promote a long expansion, and that will require price stability.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "We are committed to our price-stability goal.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_INCREASE"
+            ],
+            "MINOR_INCREASE"
+        ],
+        [
+            "We will use our tools both to support the economy and a strong labor market and to prevent higher inflation from becoming entrenched.",
+            "MAJOR_INCREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "The Fed\u2019s monetary policy actions have been guided by our mandate to promote maximum employment and stable prices for the American people.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "In light of the remarkable progress we\u2019ve seen in the labor market and inflation that is well above our 2 percent longer-run goal, the economy no longer needs sustained high levels of monetary policy support.",
+            "MINOR_DECREASE",
+            [
+                "NO_CHANGE"
+            ],
+            "NO_CHANGE"
+        ],
+        [
+            "Making appropriate monetary policy in this environment requires humility, recognizing that the economy evolves in unexpected ways.",
+            "MINOR_INCREASE",
+            [
+                "MAJOR_INCREASE"
+            ],
+            "MAJOR_INCREASE"
+        ],
+        [
+            "With this in mind, we will remain attentive to risks, including the risk that high inflation is more persistent than expected, and are prepared to respond as appropriate to achieve our goals.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_INCREASE"
+            ],
+            "MINOR_INCREASE"
+        ],
+        [
+            "[In] these high-level principles, [we] clarify that the federal funds rate is our primary means of adjusting monetary policy and that reducing our balance sheet will occur after the process of raising interest rates has begun.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_INCREASE"
+            ],
+            "MINOR_INCREASE"
+        ],
+        [
+            "Our decisions to reduce our balance sheet will be guided by our maximum-employment and price-stability goals.",
+            "MINOR_INCREASE",
+            [
+                "MAJOR_DECREASE"
+            ],
+            "MAJOR_DECREASE"
+        ],
+        [
+            "We at the Federal Reserve will do everything we can to achieve our maximum-employment and price-stability goals.",
+            "MAJOR_INCREASE",
+            [
+                "MINOR_INCREASE"
+            ],
+            "MINOR_INCREASE"
+        ],
+        [
+            "Inflation is running well above our 2 percent target, much higher than it was at that time.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "And I would say that most FOMC participants agree that labor market conditions are consistent with maximum employment in the sense of the highest level of employment that is consistent with price stability.",
+            "MAJOR_INCREASE",
+            [
+                "MAJOR_INCREASE"
+            ],
+            "MAJOR_INCREASE"
+        ],
+        [
+            "The other thing is, maximum employment will, will evolve over time and through the course of the business cycle.",
+            "MINOR_INCREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "Max\u2014the level of maximum\u2014of employment that\u2019s consistent with stable prices may increase.",
+            "MINOR_DECREASE",
+            [
+                "MAJOR_DECREASE"
+            ],
+            "MAJOR_DECREASE"
+        ],
+        [
+            "I think there\u2019s quite a bit of room to raise interest rates without threatening the labor market.",
+            "MAJOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "I also would point out that there are\u2014there are other forces at work this year, which should also help bring down inflation, we hope, including improvement on the supply side, which will ultimately come.",
+            "MINOR_INCREASE",
+            [
+                "MINOR_INCREASE"
+            ],
+            "MINOR_INCREASE"
+        ],
+        [
+            "And also, fiscal policy is going to be less supportive of, of growth this year\u2014not of the level of economic activity, but the fiscal impulse to growth will be significantly lower.",
+            "MINOR_DECREASE",
+            [
+                "MAJOR_DECREASE"
+            ],
+            "MAJOR_DECREASE"
+        ],
+        [
+            "So there are multiple forces\u2014which should be working over the course of the year for inflation to come down.",
+            "MINOR_INCREASE",
+            [
+                "MINOR_INCREASE"
+            ],
+            "MINOR_INCREASE"
+        ],
+        [
+            "We do realize that the timing and pace of that are, are highly uncertain and that inflation has persisted longer than we\u2014than we thought.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "And, of course, we\u2019re prepared to use our tools to assure that higher inflation does not become entrenched.",
+            "MAJOR_DECREASE",
+            [
+                "MAJOR_DECREASE"
+            ],
+            "MAJOR_DECREASE"
+        ],
+        [
+            "And the economy\u2019s much stronger, and inflation is much higher.",
+            "MINOR_INCREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "And, and\u2014but I would point you to principle number one, which is \u201cthe Committee views changes in the target range for the federal funds rate as its primary means of adjusting the stance of monetary policy.\u201d So we do want the federal funds rate\u2014we, we want to operationalize that [as the primary means].",
+            "MAJOR_DECREASE",
+            [
+                "MINOR_INCREASE"
+            ],
+            "MINOR_INCREASE"
+        ],
+        [
+            "And then we\u2019ll look to have that just running in the background and have\u2014and have the interest rates, again, be the active tool of monetary policy.",
+            "MINOR_INCREASE",
+            [
+                "MAJOR_DECREASE"
+            ],
+            "MAJOR_DECREASE"
+        ],
+        [
+            "So, as you know, the ultimate focus that we have is on the real economy: maximum employment and price stability.",
+            "MAJOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "And monetary policy works significantly through expectations.",
+            "MINOR_INCREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "I think the path is highly uncertain and that we\u2019re committed to using our tools to make sure that inflation, high inflation that we\u2019re seeing, does not become entrenched.",
+            "MINOR_INCREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "So a number of factors would be\u2014it\u2019s not just monetary policy\u2014a number of factors are supporting a decline in inflation, as I mentioned.",
+            "MAJOR_INCREASE",
+            [
+                "MINOR_INCREASE"
+            ],
+            "MINOR_INCREASE"
+        ],
+        [
+            "Fiscal policy will be\u2014will provide significantly less of an impulse to growth.",
+            "MINOR_INCREASE",
+            [
+                "MAJOR_INCREASE"
+            ],
+            "MAJOR_INCREASE"
+        ],
+        [
+            "So that, too, should\u2014should lower the supply-side barriers, which are a big part of the story of why inflation is high.",
+            "MAJOR_DECREASE",
+            [
+                "MINOR_INCREASE"
+            ],
+            "MINOR_INCREASE"
+        ],
+        [
+            "In addition, monetary policy will be becoming significantly less accommodative.",
+            "NO_CHANGE",
+            [
+                "MINOR_INCREASE"
+            ],
+            "MINOR_INCREASE"
+        ],
+        [
+            "There\u2019s a case that, for whatever reason, the economy slows more and inflation slows more than expected; we\u2019ll react to that.",
+            "MINOR_INCREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "If, instead, we see inflation at a higher level or a more persistent level, then we\u2019ll react to that.",
+            "MINOR_INCREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "And then after [that], they were a macroeconomic tool to support demand.",
+            "MAJOR_DECREASE",
+            [
+                "MINOR_INCREASE"
+            ],
+            "MINOR_INCREASE"
+        ],
+        [
+            "We\u2019ve identified the end state as\u2014in amounts needed to implement monetary policy efficiently [and] effectively in the ample-reserves regime.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_INCREASE"
+            ],
+            "MINOR_INCREASE"
+        ],
+        [
+            "So I\u2014you know, the one risk is that inflation risks are still to the upside in the views of most FOMC participants and, certainly, in my view as well.",
+            "MINOR_DECREASE",
+            [
+                "NO_CHANGE"
+            ],
+            "NO_CHANGE"
+        ],
+        [
+            "There\u2019s a risk that, that the high inflation we\u2019re seeing will be prolonged, and there\u2019s a risk that it will move even higher.",
+            "MINOR_INCREASE",
+            [
+                "MAJOR_INCREASE"
+            ],
+            "MAJOR_INCREASE"
+        ],
+        [
+            "And that\u2019s\u2014we have to be in a position with our monetary policy to address all of the plausible outcomes.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_INCREASE"
+            ],
+            "MINOR_INCREASE"
+        ],
+        [
+            "We, we have an expectation about the way the economy is going to be evolved, but we\u2019ve got to be in a position to, to address different outcomes, including the one where inflation remains higher.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_INCREASE"
+            ],
+            "MINOR_INCREASE"
+        ],
+        [
+            "That\u2019s going to require price stability, and that\u2019s going to require the Fed to tighten interest rate policy and do our part in getting inflation back down to our 2 percent goal.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_INCREASE"
+            ],
+            "MINOR_INCREASE"
+        ],
+        [
+            "And COVID can continue to evolve, and it\u2019s just\u2014we have to accept that it\u2019s not over, and the risks to it can slow down growth.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_INCREASE"
+            ],
+            "MINOR_INCREASE"
+        ],
+        [
+            "And that would be\u2014that\u2019s sort of a downside risk from a growth standpoint.",
+            "MAJOR_DECREASE",
+            [
+                "MAJOR_INCREASE"
+            ],
+            "MAJOR_INCREASE"
+        ],
+        [
+            "So I\u2019d say, you know, since, since the December meeting, I would say that the inflation situation is about the same but probably slightly worse.",
+            "MAJOR_DECREASE",
+            [
+                "NO_CHANGE"
+            ],
+            "NO_CHANGE"
+        ],
+        [
+            "I\u2019d be inclined to raise my own estimate of 2022 core PCE inflation\u2014let\u2019s just go with that\u2014by a few tenths today.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "And I think to the extent the situation deteriorates further, our policy will have to address that, if it deteriorates meaningfully further, either in the time dimension or in the size of the inflation dimension.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_INCREASE"
+            ],
+            "MINOR_INCREASE"
+        ],
+        [
+            "Another part of it is that fiscal policy provided an impulse to growth over the last two years.",
+            "MINOR_DECREASE",
+            [
+                "MAJOR_INCREASE"
+            ],
+            "MAJOR_INCREASE"
+        ],
+        [
+            "And that, I think, does raise, raise the risk that high inflation will be more persistent.",
+            "MINOR_INCREASE",
+            [
+                "MAJOR_INCREASE"
+            ],
+            "MAJOR_INCREASE"
+        ],
+        [
+            "And I, you know, we\u2014our objective is to get inflation back down to 2 percent.",
+            "MINOR_INCREASE",
+            [
+                "MINOR_INCREASE"
+            ],
+            "MINOR_INCREASE"
+        ],
+        [
+            "If you look back to where we were in 2015, \u201916, \u201917, \u201918 when we were raising rates, inflation was very close to 2 percent, even below 2 percent.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "Unemployment was, was not at our estimates of the natural rate.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "And growth was, you know, in the 2 to 3 percent range.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "Right now, we have inflation running substantially above 2 percent and, and, you know, more persistently than we would like.",
+            "MAJOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "We have growth\u2014even in forecasts, even in the somewhat reduced forecast for 2022\u2014we still see growth higher than, substantially higher than what we estimate to be the potential growth rate.",
+            "MAJOR_INCREASE",
+            [
+                "MAJOR_INCREASE"
+            ],
+            "MAJOR_INCREASE"
+        ],
+        [
+            "I think the\u2014you know, in a way, the least tight aspect of it is, is looking at the unemployment rate, which is still below our median estimate of, of [the unemployment rate consistent with] maximum employment.",
+            "MAJOR_DECREASE",
+            [
+                "MINOR_INCREASE"
+            ],
+            "MINOR_INCREASE"
+        ],
+        [
+            "And so inflation right away, right away forces people like that to make very difficult decisions.",
+            "MAJOR_DECREASE",
+            [
+                "MAJOR_INCREASE"
+            ],
+            "MAJOR_INCREASE"
+        ],
+        [
+            "I don\u2019t\u2014I\u2019m not aware of, you know, inflation literally falling more on, on different socioeconomic groups.",
+            "MINOR_DECREASE",
+            [
+                "NO_CHANGE"
+            ],
+            "NO_CHANGE"
+        ],
+        [
+            "I mean, for people who are economically well off, inflation isn\u2019t good.",
+            "MINOR_INCREASE",
+            [
+                "NO_CHANGE"
+            ],
+            "NO_CHANGE"
+        ],
+        [
+            "High inflation is, is bad, but they\u2019re going to be able to continue to eat and keep their homes and drive their cars and things like that.",
+            "MAJOR_INCREASE",
+            [
+                "MINOR_INCREASE"
+            ],
+            "MINOR_INCREASE"
+        ],
+        [
+            "And, you know, we, we have to control inflation for the benefit of all Americans.",
+            "MINOR_INCREASE",
+            [
+                "MAJOR_INCREASE"
+            ],
+            "MAJOR_INCREASE"
+        ],
+        [
+            "But part of\u2014part of it is just that it\u2019s particularly hard on people with fixed incomes and low incomes who spent most of their\u2014of their income on necessities, which are\u2014which are experiencing high inflation now.",
+            "NO_CHANGE",
+            [
+                "NO_CHANGE"
+            ],
+            "NO_CHANGE"
+        ],
+        [
+            "We\u2014our policy needs to be positioned to address the full range of plausible outcomes, as I said, and particularly the possibility that inflation will continue to run higher, more persistently than we\u2019d expected.",
+            "MAJOR_INCREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "But in\u2014as we work our way through this, meeting by meeting, we are aware that this is a very different, different expansion, as I\u2019ve said a couple times, with higher inflation, higher growth, a much stronger economy.",
+            "MINOR_INCREASE",
+            [
+                "MINOR_INCREASE"
+            ],
+            "MINOR_INCREASE"
+        ],
+        [
+            "There\u2019s no\u2014there\u2019s nothing in our framework about having inflation run below 2 percent so that we would do that, try to achieve that outcome.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "So the answer to that is, is \u201cno.\u201d What we\u2019re trying to do is get inflation, keep inflation expectations well anchored at 2 percent.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "And we do that in the service of having inflation\u2014we get to that goal by having inflation average 2 percent over time.",
+            "MINOR_INCREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "And if inflation doesn\u2019t average 2 percent over time, then it\u2019s not clear why inflation expectations would be anchored at 2 percent.",
+            "MAJOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "And you have growth this year at\u2014forecast to be well above\u2014well above potential.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_INCREASE"
+            ],
+            "MINOR_INCREASE"
+        ],
+        [
+            "I mean, people who are forecasting growth think potential growth is around 2 [percent].",
+            "MINOR_DECREASE",
+            [
+                "NO_CHANGE"
+            ],
+            "NO_CHANGE"
+        ],
+        [
+            "Most forecasts [of actual growth] are significantly above that for 2022, and that\u2019s even with, with policy becoming substantially less accommodative.",
+            "MINOR_INCREASE",
+            [
+                "MINOR_INCREASE"
+            ],
+            "MINOR_INCREASE"
+        ],
+        [
+            "We\u2019re\u2014ideally, what we\u2019re trying to achieve is inflation getting back down to 2 percent.",
+            "MAJOR_INCREASE",
+            [
+                "MINOR_INCREASE"
+            ],
+            "MINOR_INCREASE"
+        ],
+        [
+            "Again, I would say that it isn\u2019t just monetary policy that\u2019s helping inflation get down.",
+            "MINOR_DECREASE",
+            [
+                "MAJOR_INCREASE"
+            ],
+            "MAJOR_INCREASE"
+        ],
+        [
+            "So\u2014but monetary policy will do our job.",
+            "MINOR_INCREASE",
+            [
+                "MAJOR_INCREASE"
+            ],
+            "MAJOR_INCREASE"
+        ],
+        [
+            "It is our job to get inflation down to 2 percent.",
+            "NO_CHANGE",
+            [
+                "MINOR_INCREASE"
+            ],
+            "MINOR_INCREASE"
+        ],
+        [
+            "But I\u2014but I don\u2019t really think they are here, though, because I think a really significant threat to further strengthening in the labor market in the form of higher participation over time is high inflation.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "And also, high inflation is taking away the benefits of some of these larger wage increases that we\u2019re seeing now.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_INCREASE"
+            ],
+            "MINOR_INCREASE"
+        ],
+        [
+            "State dependency was particularly around the thought that if we\u2014if we saw a very strong labor market, we would wait to see actual inflation\u2014actual inflation before we tightened.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "And so that was a very state-dependent thought because, for a long time, we\u2019d been tightening on the expectation of high inflation, which never appeared.",
+            "MAJOR_INCREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "And then, you know, you have\u2014economic activity drops by a shocking amount in one\u2014so there was a real risk of lasting damage.",
+            "MINOR_INCREASE",
+            [
+                "MINOR_INCREASE"
+            ],
+            "MINOR_INCREASE"
+        ],
+        [
+            "And we\u2019re managing the, the relatively high-class problems that come with that, which are high inflation and a labor shortage.",
+            "MAJOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "Many flat\u2014many factors influence longer-term interest rates.",
+            "MINOR_INCREASE",
+            [
+                "MAJOR_INCREASE"
+            ],
+            "MAJOR_INCREASE"
+        ],
+        [
+            "This is going to be a year in which we move steadily away from the very highly accommodative monetary policy that we put in place to deal with the\u2014with the economic effects of the pandemic.",
+            "MAJOR_DECREASE",
+            [
+                "NO_CHANGE"
+            ],
+            "NO_CHANGE"
+        ],
+        [
+            "Inflation is higher.",
+            "NO_CHANGE",
+            [
+                "MAJOR_DECREASE"
+            ],
+            "MAJOR_DECREASE"
+        ],
+        [
+            "And growth is above trend, even this year, let alone last year.",
+            "MINOR_INCREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "So all of those things are going to go into our thinking as we make\u2014as we make monetary policy.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "But you mentioned, really, [the behavior of] asset prices is one of the four.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_INCREASE"
+            ],
+            "MINOR_INCREASE"
+        ],
+        [
+            "So asset prices are somewhat elevated, and they reflect a high risk appetite and that sort of thing.",
+            "MINOR_DECREASE",
+            [
+                "NO_CHANGE"
+            ],
+            "NO_CHANGE"
+        ]
+    ],
+    "LR": [
+        [
+            "At the Federal Reserve, we are strongly committed to achieving the monetary policy goals that Congress has given us: maximum employment and price stability.",
+            "MAJOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "Today, in support of these goals, the Federal Open Market Committee kept its policy interest rate near zero and stated its expectation that an increase in this rate would soon be appropriate.",
+            "MINOR_INCREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "As I will explain, against a backdrop of elevated inflation and a strong labor market, our policy has been adapting to the evolving economic environment, and it will continue to do so.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_INCREASE"
+            ],
+            "MINOR_INCREASE"
+        ],
+        [
+            "Economic activity expanded at a robust pace last year, reflecting progress on vaccinations and the reopening of the economy, fiscal and monetary policy support, and the healthy financial positions of households and businesses.",
+            "MINOR_INCREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "The recent sharp rise in COVID cases associated with the Omicron variant will surely weigh on economic growth this quarter.",
+            "MINOR_INCREASE",
+            [
+                "MINOR_INCREASE"
+            ],
+            "MINOR_INCREASE"
+        ],
+        [
+            "If the wave passes quickly, the economic effects should as well, and we would see a return to strong growth.",
+            "MAJOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "Over the past year, payroll employment has risen by 6.4 million jobs.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "The unemployment rate has declined sharply, falling 2 percentage points over the past six months to reach 3.9 percent in December.",
+            "MINOR_INCREASE",
+            [
+                "MINOR_INCREASE"
+            ],
+            "MINOR_INCREASE"
+        ],
+        [
+            "Labor demand remains historically strong.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "Over time, there are good reasons to expect some further improvements in participation and employment.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "Inflation remains well above our longer-run goal of 2 percent.",
+            "MINOR_INCREASE",
+            [
+                "MINOR_INCREASE"
+            ],
+            "MINOR_INCREASE"
+        ],
+        [
+            "Supply and demand imbalances related to the pandemic and [to] the reopening of the economy have continued to contribute to elevated levels of inflation.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "In particular, bottlenecks and supply constraints are limiting how quickly production can respond to higher demand in the near term.",
+            "MINOR_INCREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "While the drivers of higher inflation have been predominantly connected to the dislocations caused by the pandemic, price increases have now spread to a broader range of goods and services.",
+            "MINOR_INCREASE",
+            [
+                "MINOR_INCREASE"
+            ],
+            "MINOR_INCREASE"
+        ],
+        [
+            "Wages have also risen briskly, and we are attentive to the risks that persistent real wage growth in excess of productivity [growth] could put upward pressure on inflation.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "Like most forecasters, we continue to expect inflation to decline over the course of the year.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "We understand that high inflation imposes significant hardship, especially on those least able to meet the higher costs of essentials like food, housing, and transportation.",
+            "MAJOR_DECREASE",
+            [
+                "MINOR_INCREASE"
+            ],
+            "MINOR_INCREASE"
+        ],
+        [
+            "In addition, we believe that the best thing we can do to support continued labor market gains is to promote a long expansion, and that will require price stability.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "We are committed to our price-stability goal.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "We will use our tools both to support the economy and a strong labor market and to prevent higher inflation from becoming entrenched.",
+            "MAJOR_INCREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "The Fed\u2019s monetary policy actions have been guided by our mandate to promote maximum employment and stable prices for the American people.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "In light of the remarkable progress we\u2019ve seen in the labor market and inflation that is well above our 2 percent longer-run goal, the economy no longer needs sustained high levels of monetary policy support.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "Making appropriate monetary policy in this environment requires humility, recognizing that the economy evolves in unexpected ways.",
+            "MINOR_INCREASE",
+            [
+                "MINOR_INCREASE"
+            ],
+            "MINOR_INCREASE"
+        ],
+        [
+            "With this in mind, we will remain attentive to risks, including the risk that high inflation is more persistent than expected, and are prepared to respond as appropriate to achieve our goals.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "[In] these high-level principles, [we] clarify that the federal funds rate is our primary means of adjusting monetary policy and that reducing our balance sheet will occur after the process of raising interest rates has begun.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "Our decisions to reduce our balance sheet will be guided by our maximum-employment and price-stability goals.",
+            "MINOR_INCREASE",
+            [
+                "MINOR_INCREASE"
+            ],
+            "MINOR_INCREASE"
+        ],
+        [
+            "We at the Federal Reserve will do everything we can to achieve our maximum-employment and price-stability goals.",
+            "MAJOR_INCREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "Inflation is running well above our 2 percent target, much higher than it was at that time.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "And I would say that most FOMC participants agree that labor market conditions are consistent with maximum employment in the sense of the highest level of employment that is consistent with price stability.",
+            "MAJOR_INCREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "The other thing is, maximum employment will, will evolve over time and through the course of the business cycle.",
+            "MINOR_INCREASE",
+            [
+                "MINOR_INCREASE"
+            ],
+            "MINOR_INCREASE"
+        ],
+        [
+            "Max\u2014the level of maximum\u2014of employment that\u2019s consistent with stable prices may increase.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "I think there\u2019s quite a bit of room to raise interest rates without threatening the labor market.",
+            "MAJOR_DECREASE",
+            [
+                "MINOR_INCREASE"
+            ],
+            "MINOR_INCREASE"
+        ],
+        [
+            "I also would point out that there are\u2014there are other forces at work this year, which should also help bring down inflation, we hope, including improvement on the supply side, which will ultimately come.",
+            "MINOR_INCREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "And also, fiscal policy is going to be less supportive of, of growth this year\u2014not of the level of economic activity, but the fiscal impulse to growth will be significantly lower.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "So there are multiple forces\u2014which should be working over the course of the year for inflation to come down.",
+            "MINOR_INCREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "We do realize that the timing and pace of that are, are highly uncertain and that inflation has persisted longer than we\u2014than we thought.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_INCREASE"
+            ],
+            "MINOR_INCREASE"
+        ],
+        [
+            "And, of course, we\u2019re prepared to use our tools to assure that higher inflation does not become entrenched.",
+            "MAJOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "And the economy\u2019s much stronger, and inflation is much higher.",
+            "MINOR_INCREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "And, and\u2014but I would point you to principle number one, which is \u201cthe Committee views changes in the target range for the federal funds rate as its primary means of adjusting the stance of monetary policy.\u201d So we do want the federal funds rate\u2014we, we want to operationalize that [as the primary means].",
+            "MAJOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "And then we\u2019ll look to have that just running in the background and have\u2014and have the interest rates, again, be the active tool of monetary policy.",
+            "MINOR_INCREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "So, as you know, the ultimate focus that we have is on the real economy: maximum employment and price stability.",
+            "MAJOR_DECREASE",
+            [
+                "MINOR_INCREASE"
+            ],
+            "MINOR_INCREASE"
+        ],
+        [
+            "And monetary policy works significantly through expectations.",
+            "MINOR_INCREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "I think the path is highly uncertain and that we\u2019re committed to using our tools to make sure that inflation, high inflation that we\u2019re seeing, does not become entrenched.",
+            "MINOR_INCREASE",
+            [
+                "MINOR_INCREASE"
+            ],
+            "MINOR_INCREASE"
+        ],
+        [
+            "So a number of factors would be\u2014it\u2019s not just monetary policy\u2014a number of factors are supporting a decline in inflation, as I mentioned.",
+            "MAJOR_INCREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "Fiscal policy will be\u2014will provide significantly less of an impulse to growth.",
+            "MINOR_INCREASE",
+            [
+                "MINOR_INCREASE"
+            ],
+            "MINOR_INCREASE"
+        ],
+        [
+            "So that, too, should\u2014should lower the supply-side barriers, which are a big part of the story of why inflation is high.",
+            "MAJOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "In addition, monetary policy will be becoming significantly less accommodative.",
+            "NO_CHANGE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "There\u2019s a case that, for whatever reason, the economy slows more and inflation slows more than expected; we\u2019ll react to that.",
+            "MINOR_INCREASE",
+            [
+                "MINOR_INCREASE"
+            ],
+            "MINOR_INCREASE"
+        ],
+        [
+            "If, instead, we see inflation at a higher level or a more persistent level, then we\u2019ll react to that.",
+            "MINOR_INCREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "And then after [that], they were a macroeconomic tool to support demand.",
+            "MAJOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "We\u2019ve identified the end state as\u2014in amounts needed to implement monetary policy efficiently [and] effectively in the ample-reserves regime.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "So I\u2014you know, the one risk is that inflation risks are still to the upside in the views of most FOMC participants and, certainly, in my view as well.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_INCREASE"
+            ],
+            "MINOR_INCREASE"
+        ],
+        [
+            "There\u2019s a risk that, that the high inflation we\u2019re seeing will be prolonged, and there\u2019s a risk that it will move even higher.",
+            "MINOR_INCREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "And that\u2019s\u2014we have to be in a position with our monetary policy to address all of the plausible outcomes.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "We, we have an expectation about the way the economy is going to be evolved, but we\u2019ve got to be in a position to, to address different outcomes, including the one where inflation remains higher.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "That\u2019s going to require price stability, and that\u2019s going to require the Fed to tighten interest rate policy and do our part in getting inflation back down to our 2 percent goal.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_INCREASE"
+            ],
+            "MINOR_INCREASE"
+        ],
+        [
+            "And COVID can continue to evolve, and it\u2019s just\u2014we have to accept that it\u2019s not over, and the risks to it can slow down growth.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "And that would be\u2014that\u2019s sort of a downside risk from a growth standpoint.",
+            "MAJOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "So I\u2019d say, you know, since, since the December meeting, I would say that the inflation situation is about the same but probably slightly worse.",
+            "MAJOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "I\u2019d be inclined to raise my own estimate of 2022 core PCE inflation\u2014let\u2019s just go with that\u2014by a few tenths today.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "And I think to the extent the situation deteriorates further, our policy will have to address that, if it deteriorates meaningfully further, either in the time dimension or in the size of the inflation dimension.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "Another part of it is that fiscal policy provided an impulse to growth over the last two years.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "And that, I think, does raise, raise the risk that high inflation will be more persistent.",
+            "MINOR_INCREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "And I, you know, we\u2014our objective is to get inflation back down to 2 percent.",
+            "MINOR_INCREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "If you look back to where we were in 2015, \u201916, \u201917, \u201918 when we were raising rates, inflation was very close to 2 percent, even below 2 percent.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "Unemployment was, was not at our estimates of the natural rate.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "And growth was, you know, in the 2 to 3 percent range.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_INCREASE"
+            ],
+            "MINOR_INCREASE"
+        ],
+        [
+            "Right now, we have inflation running substantially above 2 percent and, and, you know, more persistently than we would like.",
+            "MAJOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "We have growth\u2014even in forecasts, even in the somewhat reduced forecast for 2022\u2014we still see growth higher than, substantially higher than what we estimate to be the potential growth rate.",
+            "MAJOR_INCREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "I think the\u2014you know, in a way, the least tight aspect of it is, is looking at the unemployment rate, which is still below our median estimate of, of [the unemployment rate consistent with] maximum employment.",
+            "MAJOR_DECREASE",
+            [
+                "MINOR_INCREASE"
+            ],
+            "MINOR_INCREASE"
+        ],
+        [
+            "And so inflation right away, right away forces people like that to make very difficult decisions.",
+            "MAJOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "I don\u2019t\u2014I\u2019m not aware of, you know, inflation literally falling more on, on different socioeconomic groups.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_INCREASE"
+            ],
+            "MINOR_INCREASE"
+        ],
+        [
+            "I mean, for people who are economically well off, inflation isn\u2019t good.",
+            "MINOR_INCREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "High inflation is, is bad, but they\u2019re going to be able to continue to eat and keep their homes and drive their cars and things like that.",
+            "MAJOR_INCREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "And, you know, we, we have to control inflation for the benefit of all Americans.",
+            "MINOR_INCREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "But part of\u2014part of it is just that it\u2019s particularly hard on people with fixed incomes and low incomes who spent most of their\u2014of their income on necessities, which are\u2014which are experiencing high inflation now.",
+            "NO_CHANGE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "We\u2014our policy needs to be positioned to address the full range of plausible outcomes, as I said, and particularly the possibility that inflation will continue to run higher, more persistently than we\u2019d expected.",
+            "MAJOR_INCREASE",
+            [
+                "MINOR_INCREASE"
+            ],
+            "MINOR_INCREASE"
+        ],
+        [
+            "But in\u2014as we work our way through this, meeting by meeting, we are aware that this is a very different, different expansion, as I\u2019ve said a couple times, with higher inflation, higher growth, a much stronger economy.",
+            "MINOR_INCREASE",
+            [
+                "MINOR_INCREASE"
+            ],
+            "MINOR_INCREASE"
+        ],
+        [
+            "There\u2019s no\u2014there\u2019s nothing in our framework about having inflation run below 2 percent so that we would do that, try to achieve that outcome.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "So the answer to that is, is \u201cno.\u201d What we\u2019re trying to do is get inflation, keep inflation expectations well anchored at 2 percent.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_INCREASE"
+            ],
+            "MINOR_INCREASE"
+        ],
+        [
+            "And we do that in the service of having inflation\u2014we get to that goal by having inflation average 2 percent over time.",
+            "MINOR_INCREASE",
+            [
+                "MINOR_INCREASE"
+            ],
+            "MINOR_INCREASE"
+        ],
+        [
+            "And if inflation doesn\u2019t average 2 percent over time, then it\u2019s not clear why inflation expectations would be anchored at 2 percent.",
+            "MAJOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "And you have growth this year at\u2014forecast to be well above\u2014well above potential.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "I mean, people who are forecasting growth think potential growth is around 2 [percent].",
+            "MINOR_DECREASE",
+            [
+                "MINOR_INCREASE"
+            ],
+            "MINOR_INCREASE"
+        ],
+        [
+            "Most forecasts [of actual growth] are significantly above that for 2022, and that\u2019s even with, with policy becoming substantially less accommodative.",
+            "MINOR_INCREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "We\u2019re\u2014ideally, what we\u2019re trying to achieve is inflation getting back down to 2 percent.",
+            "MAJOR_INCREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "Again, I would say that it isn\u2019t just monetary policy that\u2019s helping inflation get down.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "So\u2014but monetary policy will do our job.",
+            "MINOR_INCREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "It is our job to get inflation down to 2 percent.",
+            "NO_CHANGE",
+            [
+                "MINOR_INCREASE"
+            ],
+            "MINOR_INCREASE"
+        ],
+        [
+            "But I\u2014but I don\u2019t really think they are here, though, because I think a really significant threat to further strengthening in the labor market in the form of higher participation over time is high inflation.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "And also, high inflation is taking away the benefits of some of these larger wage increases that we\u2019re seeing now.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "State dependency was particularly around the thought that if we\u2014if we saw a very strong labor market, we would wait to see actual inflation\u2014actual inflation before we tightened.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "And so that was a very state-dependent thought because, for a long time, we\u2019d been tightening on the expectation of high inflation, which never appeared.",
+            "MAJOR_INCREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "And then, you know, you have\u2014economic activity drops by a shocking amount in one\u2014so there was a real risk of lasting damage.",
+            "MINOR_INCREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "And we\u2019re managing the, the relatively high-class problems that come with that, which are high inflation and a labor shortage.",
+            "MAJOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "Many flat\u2014many factors influence longer-term interest rates.",
+            "MINOR_INCREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "This is going to be a year in which we move steadily away from the very highly accommodative monetary policy that we put in place to deal with the\u2014with the economic effects of the pandemic.",
+            "MAJOR_DECREASE",
+            [
+                "MINOR_INCREASE"
+            ],
+            "MINOR_INCREASE"
+        ],
+        [
+            "Inflation is higher.",
+            "NO_CHANGE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "And growth is above trend, even this year, let alone last year.",
+            "MINOR_INCREASE",
+            [
+                "MINOR_INCREASE"
+            ],
+            "MINOR_INCREASE"
+        ],
+        [
+            "So all of those things are going to go into our thinking as we make\u2014as we make monetary policy.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "But you mentioned, really, [the behavior of] asset prices is one of the four.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "So asset prices are somewhat elevated, and they reflect a high risk appetite and that sort of thing.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_INCREASE"
+            ],
+            "MINOR_INCREASE"
+        ]
+    ],
+    "LSTM1": [
+        [
+            "At the Federal Reserve, we are strongly committed to achieving the monetary policy goals that Congress has given us: maximum employment and price stability.",
+            "MAJOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "Today, in support of these goals, the Federal Open Market Committee kept its policy interest rate near zero and stated its expectation that an increase in this rate would soon be appropriate.",
+            "MINOR_INCREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "As I will explain, against a backdrop of elevated inflation and a strong labor market, our policy has been adapting to the evolving economic environment, and it will continue to do so.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "Economic activity expanded at a robust pace last year, reflecting progress on vaccinations and the reopening of the economy, fiscal and monetary policy support, and the healthy financial positions of households and businesses.",
+            "MINOR_INCREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "The recent sharp rise in COVID cases associated with the Omicron variant will surely weigh on economic growth this quarter.",
+            "MINOR_INCREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "If the wave passes quickly, the economic effects should as well, and we would see a return to strong growth.",
+            "MAJOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "Over the past year, payroll employment has risen by 6.4 million jobs.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_INCREASE"
+            ],
+            "MINOR_INCREASE"
+        ],
+        [
+            "The unemployment rate has declined sharply, falling 2 percentage points over the past six months to reach 3.9 percent in December.",
+            "MINOR_INCREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "Labor demand remains historically strong.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "Over time, there are good reasons to expect some further improvements in participation and employment.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "Inflation remains well above our longer-run goal of 2 percent.",
+            "MINOR_INCREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "Supply and demand imbalances related to the pandemic and [to] the reopening of the economy have continued to contribute to elevated levels of inflation.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "In particular, bottlenecks and supply constraints are limiting how quickly production can respond to higher demand in the near term.",
+            "MINOR_INCREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "While the drivers of higher inflation have been predominantly connected to the dislocations caused by the pandemic, price increases have now spread to a broader range of goods and services.",
+            "MINOR_INCREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "Wages have also risen briskly, and we are attentive to the risks that persistent real wage growth in excess of productivity [growth] could put upward pressure on inflation.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "Like most forecasters, we continue to expect inflation to decline over the course of the year.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_INCREASE"
+            ],
+            "MINOR_INCREASE"
+        ],
+        [
+            "We understand that high inflation imposes significant hardship, especially on those least able to meet the higher costs of essentials like food, housing, and transportation.",
+            "MAJOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "In addition, we believe that the best thing we can do to support continued labor market gains is to promote a long expansion, and that will require price stability.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "We are committed to our price-stability goal.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "We will use our tools both to support the economy and a strong labor market and to prevent higher inflation from becoming entrenched.",
+            "MAJOR_INCREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "The Fed\u2019s monetary policy actions have been guided by our mandate to promote maximum employment and stable prices for the American people.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "In light of the remarkable progress we\u2019ve seen in the labor market and inflation that is well above our 2 percent longer-run goal, the economy no longer needs sustained high levels of monetary policy support.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_INCREASE"
+            ],
+            "MINOR_INCREASE"
+        ],
+        [
+            "Making appropriate monetary policy in this environment requires humility, recognizing that the economy evolves in unexpected ways.",
+            "MINOR_INCREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "With this in mind, we will remain attentive to risks, including the risk that high inflation is more persistent than expected, and are prepared to respond as appropriate to achieve our goals.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "[In] these high-level principles, [we] clarify that the federal funds rate is our primary means of adjusting monetary policy and that reducing our balance sheet will occur after the process of raising interest rates has begun.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "Our decisions to reduce our balance sheet will be guided by our maximum-employment and price-stability goals.",
+            "MINOR_INCREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "We at the Federal Reserve will do everything we can to achieve our maximum-employment and price-stability goals.",
+            "MAJOR_INCREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "Inflation is running well above our 2 percent target, much higher than it was at that time.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "And I would say that most FOMC participants agree that labor market conditions are consistent with maximum employment in the sense of the highest level of employment that is consistent with price stability.",
+            "MAJOR_INCREASE",
+            [
+                "MINOR_INCREASE"
+            ],
+            "MINOR_INCREASE"
+        ],
+        [
+            "The other thing is, maximum employment will, will evolve over time and through the course of the business cycle.",
+            "MINOR_INCREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "Max\u2014the level of maximum\u2014of employment that\u2019s consistent with stable prices may increase.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_INCREASE"
+            ],
+            "MINOR_INCREASE"
+        ],
+        [
+            "I think there\u2019s quite a bit of room to raise interest rates without threatening the labor market.",
+            "MAJOR_DECREASE",
+            [
+                "MINOR_INCREASE"
+            ],
+            "MINOR_INCREASE"
+        ],
+        [
+            "I also would point out that there are\u2014there are other forces at work this year, which should also help bring down inflation, we hope, including improvement on the supply side, which will ultimately come.",
+            "MINOR_INCREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "And also, fiscal policy is going to be less supportive of, of growth this year\u2014not of the level of economic activity, but the fiscal impulse to growth will be significantly lower.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "So there are multiple forces\u2014which should be working over the course of the year for inflation to come down.",
+            "MINOR_INCREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "We do realize that the timing and pace of that are, are highly uncertain and that inflation has persisted longer than we\u2014than we thought.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "And, of course, we\u2019re prepared to use our tools to assure that higher inflation does not become entrenched.",
+            "MAJOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "And the economy\u2019s much stronger, and inflation is much higher.",
+            "MINOR_INCREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "And, and\u2014but I would point you to principle number one, which is \u201cthe Committee views changes in the target range for the federal funds rate as its primary means of adjusting the stance of monetary policy.\u201d So we do want the federal funds rate\u2014we, we want to operationalize that [as the primary means].",
+            "MAJOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "And then we\u2019ll look to have that just running in the background and have\u2014and have the interest rates, again, be the active tool of monetary policy.",
+            "MINOR_INCREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "So, as you know, the ultimate focus that we have is on the real economy: maximum employment and price stability.",
+            "MAJOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "And monetary policy works significantly through expectations.",
+            "MINOR_INCREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "I think the path is highly uncertain and that we\u2019re committed to using our tools to make sure that inflation, high inflation that we\u2019re seeing, does not become entrenched.",
+            "MINOR_INCREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "So a number of factors would be\u2014it\u2019s not just monetary policy\u2014a number of factors are supporting a decline in inflation, as I mentioned.",
+            "MAJOR_INCREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "Fiscal policy will be\u2014will provide significantly less of an impulse to growth.",
+            "MINOR_INCREASE",
+            [
+                "MINOR_INCREASE"
+            ],
+            "MINOR_INCREASE"
+        ],
+        [
+            "So that, too, should\u2014should lower the supply-side barriers, which are a big part of the story of why inflation is high.",
+            "MAJOR_DECREASE",
+            [
+                "MINOR_INCREASE"
+            ],
+            "MINOR_INCREASE"
+        ],
+        [
+            "In addition, monetary policy will be becoming significantly less accommodative.",
+            "NO_CHANGE",
+            [
+                "MINOR_INCREASE"
+            ],
+            "MINOR_INCREASE"
+        ],
+        [
+            "There\u2019s a case that, for whatever reason, the economy slows more and inflation slows more than expected; we\u2019ll react to that.",
+            "MINOR_INCREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "If, instead, we see inflation at a higher level or a more persistent level, then we\u2019ll react to that.",
+            "MINOR_INCREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "And then after [that], they were a macroeconomic tool to support demand.",
+            "MAJOR_DECREASE",
+            [
+                "MINOR_INCREASE"
+            ],
+            "MINOR_INCREASE"
+        ],
+        [
+            "We\u2019ve identified the end state as\u2014in amounts needed to implement monetary policy efficiently [and] effectively in the ample-reserves regime.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_INCREASE"
+            ],
+            "MINOR_INCREASE"
+        ],
+        [
+            "So I\u2014you know, the one risk is that inflation risks are still to the upside in the views of most FOMC participants and, certainly, in my view as well.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "There\u2019s a risk that, that the high inflation we\u2019re seeing will be prolonged, and there\u2019s a risk that it will move even higher.",
+            "MINOR_INCREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "And that\u2019s\u2014we have to be in a position with our monetary policy to address all of the plausible outcomes.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "We, we have an expectation about the way the economy is going to be evolved, but we\u2019ve got to be in a position to, to address different outcomes, including the one where inflation remains higher.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "That\u2019s going to require price stability, and that\u2019s going to require the Fed to tighten interest rate policy and do our part in getting inflation back down to our 2 percent goal.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "And COVID can continue to evolve, and it\u2019s just\u2014we have to accept that it\u2019s not over, and the risks to it can slow down growth.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "And that would be\u2014that\u2019s sort of a downside risk from a growth standpoint.",
+            "MAJOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "So I\u2019d say, you know, since, since the December meeting, I would say that the inflation situation is about the same but probably slightly worse.",
+            "MAJOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "I\u2019d be inclined to raise my own estimate of 2022 core PCE inflation\u2014let\u2019s just go with that\u2014by a few tenths today.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "And I think to the extent the situation deteriorates further, our policy will have to address that, if it deteriorates meaningfully further, either in the time dimension or in the size of the inflation dimension.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "Another part of it is that fiscal policy provided an impulse to growth over the last two years.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "And that, I think, does raise, raise the risk that high inflation will be more persistent.",
+            "MINOR_INCREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "And I, you know, we\u2014our objective is to get inflation back down to 2 percent.",
+            "MINOR_INCREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "If you look back to where we were in 2015, \u201916, \u201917, \u201918 when we were raising rates, inflation was very close to 2 percent, even below 2 percent.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "Unemployment was, was not at our estimates of the natural rate.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_INCREASE"
+            ],
+            "MINOR_INCREASE"
+        ],
+        [
+            "And growth was, you know, in the 2 to 3 percent range.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "Right now, we have inflation running substantially above 2 percent and, and, you know, more persistently than we would like.",
+            "MAJOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "We have growth\u2014even in forecasts, even in the somewhat reduced forecast for 2022\u2014we still see growth higher than, substantially higher than what we estimate to be the potential growth rate.",
+            "MAJOR_INCREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "I think the\u2014you know, in a way, the least tight aspect of it is, is looking at the unemployment rate, which is still below our median estimate of, of [the unemployment rate consistent with] maximum employment.",
+            "MAJOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "And so inflation right away, right away forces people like that to make very difficult decisions.",
+            "MAJOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "I don\u2019t\u2014I\u2019m not aware of, you know, inflation literally falling more on, on different socioeconomic groups.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "I mean, for people who are economically well off, inflation isn\u2019t good.",
+            "MINOR_INCREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "High inflation is, is bad, but they\u2019re going to be able to continue to eat and keep their homes and drive their cars and things like that.",
+            "MAJOR_INCREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "And, you know, we, we have to control inflation for the benefit of all Americans.",
+            "MINOR_INCREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "But part of\u2014part of it is just that it\u2019s particularly hard on people with fixed incomes and low incomes who spent most of their\u2014of their income on necessities, which are\u2014which are experiencing high inflation now.",
+            "NO_CHANGE",
+            [
+                "MINOR_INCREASE"
+            ],
+            "MINOR_INCREASE"
+        ],
+        [
+            "We\u2014our policy needs to be positioned to address the full range of plausible outcomes, as I said, and particularly the possibility that inflation will continue to run higher, more persistently than we\u2019d expected.",
+            "MAJOR_INCREASE",
+            [
+                "MINOR_INCREASE"
+            ],
+            "MINOR_INCREASE"
+        ],
+        [
+            "But in\u2014as we work our way through this, meeting by meeting, we are aware that this is a very different, different expansion, as I\u2019ve said a couple times, with higher inflation, higher growth, a much stronger economy.",
+            "MINOR_INCREASE",
+            [
+                "MINOR_INCREASE"
+            ],
+            "MINOR_INCREASE"
+        ],
+        [
+            "There\u2019s no\u2014there\u2019s nothing in our framework about having inflation run below 2 percent so that we would do that, try to achieve that outcome.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_INCREASE"
+            ],
+            "MINOR_INCREASE"
+        ],
+        [
+            "So the answer to that is, is \u201cno.\u201d What we\u2019re trying to do is get inflation, keep inflation expectations well anchored at 2 percent.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_INCREASE"
+            ],
+            "MINOR_INCREASE"
+        ],
+        [
+            "And we do that in the service of having inflation\u2014we get to that goal by having inflation average 2 percent over time.",
+            "MINOR_INCREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "And if inflation doesn\u2019t average 2 percent over time, then it\u2019s not clear why inflation expectations would be anchored at 2 percent.",
+            "MAJOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "And you have growth this year at\u2014forecast to be well above\u2014well above potential.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "I mean, people who are forecasting growth think potential growth is around 2 [percent].",
+            "MINOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "Most forecasts [of actual growth] are significantly above that for 2022, and that\u2019s even with, with policy becoming substantially less accommodative.",
+            "MINOR_INCREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "We\u2019re\u2014ideally, what we\u2019re trying to achieve is inflation getting back down to 2 percent.",
+            "MAJOR_INCREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "Again, I would say that it isn\u2019t just monetary policy that\u2019s helping inflation get down.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "So\u2014but monetary policy will do our job.",
+            "MINOR_INCREASE",
+            [
+                "MINOR_INCREASE"
+            ],
+            "MINOR_INCREASE"
+        ],
+        [
+            "It is our job to get inflation down to 2 percent.",
+            "NO_CHANGE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "But I\u2014but I don\u2019t really think they are here, though, because I think a really significant threat to further strengthening in the labor market in the form of higher participation over time is high inflation.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "And also, high inflation is taking away the benefits of some of these larger wage increases that we\u2019re seeing now.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "State dependency was particularly around the thought that if we\u2014if we saw a very strong labor market, we would wait to see actual inflation\u2014actual inflation before we tightened.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "And so that was a very state-dependent thought because, for a long time, we\u2019d been tightening on the expectation of high inflation, which never appeared.",
+            "MAJOR_INCREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "And then, you know, you have\u2014economic activity drops by a shocking amount in one\u2014so there was a real risk of lasting damage.",
+            "MINOR_INCREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "And we\u2019re managing the, the relatively high-class problems that come with that, which are high inflation and a labor shortage.",
+            "MAJOR_DECREASE",
+            [
+                "MINOR_INCREASE"
+            ],
+            "MINOR_INCREASE"
+        ],
+        [
+            "Many flat\u2014many factors influence longer-term interest rates.",
+            "MINOR_INCREASE",
+            [
+                "MINOR_INCREASE"
+            ],
+            "MINOR_INCREASE"
+        ],
+        [
+            "This is going to be a year in which we move steadily away from the very highly accommodative monetary policy that we put in place to deal with the\u2014with the economic effects of the pandemic.",
+            "MAJOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "Inflation is higher.",
+            "NO_CHANGE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "And growth is above trend, even this year, let alone last year.",
+            "MINOR_INCREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "So all of those things are going to go into our thinking as we make\u2014as we make monetary policy.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ],
+        [
+            "But you mentioned, really, [the behavior of] asset prices is one of the four.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_INCREASE"
+            ],
+            "MINOR_INCREASE"
+        ],
+        [
+            "So asset prices are somewhat elevated, and they reflect a high risk appetite and that sort of thing.",
+            "MINOR_DECREASE",
+            [
+                "MINOR_DECREASE"
+            ],
+            "MINOR_DECREASE"
+        ]
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "random_baseline": {
+        "accuracy_total": 0.30392156862745096,
+        "accuracy_per_class": {
+            "MAJOR_DECREASE": 0.11764705882352941,
+            "MINOR_DECREASE": 0.3902439024390244,
+            "NO_CHANGE": 0.0,
+            "MINOR_INCREASE": 0.41935483870967744,
+            "MAJOR_INCREASE": 0.0
+        },
+        "precision": {
+            "MAJOR_DECREASE": 0.25,
+            "MINOR_DECREASE": 0.45714285714285713,
+            "NO_CHANGE": 0.0,
+            "MINOR_INCREASE": 0.3714285714285714,
+            "MAJOR_INCREASE": 0.0
+        },
+        "recall": {
+            "MAJOR_DECREASE": 0.11764705882352941,
+            "MINOR_DECREASE": 0.39024390243902435,
+            "NO_CHANGE": 0.0,
+            "MINOR_INCREASE": 0.41935483870967744,
+            "MAJOR_INCREASE": 0.0
+        },
+        "f1": {
+            "MAJOR_DECREASE": 0.15999999999999998,
+            "MINOR_DECREASE": 0.42105263157894735,
+            "NO_CHANGE": 0,
+            "MINOR_INCREASE": 0.3939393939393939,
+            "MAJOR_INCREASE": 0
+        },
+        "percentage_of_each_class": {
+            "MINOR_DECREASE": 0.4019607843137255,
+            "MINOR_INCREASE": 0.30392156862745096,
+            "MAJOR_DECREASE": 0.16666666666666666,
+            "MAJOR_INCREASE": 0.08823529411764706,
+            "NO_CHANGE": 0.0392156862745098
+        }
+    }
+}

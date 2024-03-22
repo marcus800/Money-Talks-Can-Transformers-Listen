@@ -1,0 +1,152 @@
+{
+    "meta-llama/Llama-2-7b-chat-hf-FX": {
+        "accuracy_total": 0.20588235294117646,
+        "accuracy_per_class": {
+            "MAJOR_DECREASE": 0.46153846153846156,
+            "MINOR_DECREASE": 0.225,
+            "NO_CHANGE": 0.0,
+            "MINOR_INCREASE": 0.16216216216216217,
+            "MAJOR_INCREASE": 0.0
+        },
+        "precision": {
+            "MAJOR_DECREASE": 0.12000000000000001,
+            "MINOR_DECREASE": 0.3214285714285714,
+            "NO_CHANGE": 0.0,
+            "MINOR_INCREASE": 0.39999999999999997,
+            "MAJOR_INCREASE": 0.0
+        },
+        "recall": {
+            "MAJOR_DECREASE": 0.46153846153846156,
+            "MINOR_DECREASE": 0.225,
+            "NO_CHANGE": 0.0,
+            "MINOR_INCREASE": 0.16216216216216217,
+            "MAJOR_INCREASE": 0.0
+        },
+        "f1": {
+            "MAJOR_DECREASE": 0.1904761904761905,
+            "MINOR_DECREASE": 0.2647058823529412,
+            "NO_CHANGE": 0,
+            "MINOR_INCREASE": 0.23076923076923078,
+            "MAJOR_INCREASE": 0
+        },
+        "percentage_of_each_class": {
+            "MAJOR_DECREASE": 0.49019607843137253,
+            "MINOR_DECREASE": 0.27450980392156865,
+            "MINOR_INCREASE": 0.14705882352941177,
+            "MAJOR_INCREASE": 0.06862745098039216,
+            "NO_CHANGE": 0.0196078431372549
+        }
+    },
+    "meta-llama/Llama-2-7b-chat-hf-SP": {
+        "accuracy_total": 0.21568627450980393,
+        "accuracy_per_class": {
+            "MAJOR_DECREASE": 0.23529411764705882,
+            "MINOR_DECREASE": 0.17073170731707318,
+            "NO_CHANGE": 0.0,
+            "MINOR_INCREASE": 0.2903225806451613,
+            "MAJOR_INCREASE": 0.2222222222222222
+        },
+        "precision": {
+            "MAJOR_DECREASE": 0.26666666666666666,
+            "MINOR_DECREASE": 0.35000000000000003,
+            "NO_CHANGE": 0.0,
+            "MINOR_INCREASE": 0.1956521739130435,
+            "MAJOR_INCREASE": 0.2
+        },
+        "recall": {
+            "MAJOR_DECREASE": 0.23529411764705882,
+            "MINOR_DECREASE": 0.17073170731707318,
+            "NO_CHANGE": 0.0,
+            "MINOR_INCREASE": 0.2903225806451613,
+            "MAJOR_INCREASE": 0.2222222222222222
+        },
+        "f1": {
+            "MAJOR_DECREASE": 0.25,
+            "MINOR_DECREASE": 0.2295081967213115,
+            "NO_CHANGE": 0,
+            "MINOR_INCREASE": 0.23376623376623376,
+            "MAJOR_INCREASE": 0.2105263157894737
+        },
+        "percentage_of_each_class": {
+            "MINOR_INCREASE": 0.45098039215686275,
+            "MINOR_DECREASE": 0.19607843137254902,
+            "MAJOR_DECREASE": 0.14705882352941177,
+            "NO_CHANGE": 0.10784313725490197,
+            "MAJOR_INCREASE": 0.09803921568627451
+        }
+    },
+    "seanmemery/MLP-FinLLM-7b-it-FX": {
+        "accuracy_total": 0.3137254901960784,
+        "accuracy_per_class": {
+            "MAJOR_DECREASE": 0.0,
+            "MINOR_DECREASE": 0.35,
+            "NO_CHANGE": 0.0,
+            "MINOR_INCREASE": 0.4864864864864865,
+            "MAJOR_INCREASE": 0.0
+        },
+        "precision": {
+            "MAJOR_DECREASE": 0,
+            "MINOR_DECREASE": 0.34146341463414637,
+            "NO_CHANGE": 0.0,
+            "MINOR_INCREASE": 0.3103448275862069,
+            "MAJOR_INCREASE": 0
+        },
+        "recall": {
+            "MAJOR_DECREASE": 0.0,
+            "MINOR_DECREASE": 0.35000000000000003,
+            "NO_CHANGE": 0.0,
+            "MINOR_INCREASE": 0.4864864864864865,
+            "MAJOR_INCREASE": 0.0
+        },
+        "f1": {
+            "MAJOR_DECREASE": 0,
+            "MINOR_DECREASE": 0.34567901234567905,
+            "NO_CHANGE": 0,
+            "MINOR_INCREASE": 0.37894736842105264,
+            "MAJOR_INCREASE": 0
+        },
+        "percentage_of_each_class": {
+            "MINOR_INCREASE": 0.5686274509803921,
+            "MINOR_DECREASE": 0.4019607843137255,
+            "NO_CHANGE": 0.029411764705882353
+        }
+    },
+    "seanmemery/MLP-FinLLM-7b-it-SP": {
+        "accuracy_total": 0.27450980392156865,
+        "accuracy_per_class": {
+            "MAJOR_DECREASE": 0.0,
+            "MINOR_DECREASE": 0.14634146341463414,
+            "NO_CHANGE": 0.0,
+            "MINOR_INCREASE": 0.6774193548387096,
+            "MAJOR_INCREASE": 0.1111111111111111
+        },
+        "precision": {
+            "MAJOR_DECREASE": 0.0,
+            "MINOR_DECREASE": 0.3333333333333333,
+            "NO_CHANGE": 0.0,
+            "MINOR_INCREASE": 0.3043478260869565,
+            "MAJOR_INCREASE": 0.0909090909090909
+        },
+        "recall": {
+            "MAJOR_DECREASE": 0.0,
+            "MINOR_DECREASE": 0.14634146341463414,
+            "NO_CHANGE": 0.0,
+            "MINOR_INCREASE": 0.6774193548387097,
+            "MAJOR_INCREASE": 0.1111111111111111
+        },
+        "f1": {
+            "MAJOR_DECREASE": 0,
+            "MINOR_DECREASE": 0.2033898305084746,
+            "NO_CHANGE": 0,
+            "MINOR_INCREASE": 0.41999999999999993,
+            "MAJOR_INCREASE": 0.09999999999999999
+        },
+        "percentage_of_each_class": {
+            "MINOR_INCREASE": 0.6764705882352942,
+            "MINOR_DECREASE": 0.17647058823529413,
+            "MAJOR_INCREASE": 0.10784313725490197,
+            "NO_CHANGE": 0.029411764705882353,
+            "MAJOR_DECREASE": 0.00980392156862745
+        }
+    }
+}

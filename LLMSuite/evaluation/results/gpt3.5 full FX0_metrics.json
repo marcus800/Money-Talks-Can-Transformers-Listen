@@ -1,0 +1,78 @@
+{
+    "gpt3": {
+        "accuracy_total": 0.21568627450980393,
+        "accuracy_per_class": {
+            "MAJOR_DECREASE": 0.11764705882352941,
+            "MINOR_DECREASE": 0.2682926829268293,
+            "NO_CHANGE": 0.0,
+            "MINOR_INCREASE": 0.2903225806451613,
+            "MAJOR_INCREASE": 0.0
+        },
+        "precision": {
+            "MAJOR_DECREASE": 0.3333333333333333,
+            "MINOR_DECREASE": 0.37931034482758624,
+            "NO_CHANGE": 0.0,
+            "MINOR_INCREASE": 0.2307692307692308,
+            "MAJOR_INCREASE": 0.0
+        },
+        "recall": {
+            "MAJOR_DECREASE": 0.11764705882352941,
+            "MINOR_DECREASE": 0.2682926829268293,
+            "NO_CHANGE": 0.0,
+            "MINOR_INCREASE": 0.2903225806451613,
+            "MAJOR_INCREASE": 0.0
+        },
+        "f1": {
+            "MAJOR_DECREASE": 0.1739130434782609,
+            "MINOR_DECREASE": 0.3142857142857143,
+            "NO_CHANGE": 0,
+            "MINOR_INCREASE": 0.25714285714285723,
+            "MAJOR_INCREASE": 0
+        },
+        "percentage_of_each_class": {
+            "MINOR_DECREASE": 0.4019607843137255,
+            "MINOR_INCREASE": 0.30392156862745096,
+            "MAJOR_DECREASE": 0.16666666666666666,
+            "MAJOR_INCREASE": 0.08823529411764706,
+            "NO_CHANGE": 0.0392156862745098
+        }
+    },
+    "RandomChoice": {
+        "accuracy_total": 0.21568627450980393,
+        "accuracy_per_class": {
+            "MAJOR_DECREASE": 0.23529411764705882,
+            "MINOR_DECREASE": 0.21951219512195122,
+            "NO_CHANGE": 0.0,
+            "MINOR_INCREASE": 0.22580645161290322,
+            "MAJOR_INCREASE": 0.2222222222222222
+        },
+        "precision": {
+            "MAJOR_DECREASE": 0.1818181818181818,
+            "MINOR_DECREASE": 0.391304347826087,
+            "NO_CHANGE": 0.0,
+            "MINOR_INCREASE": 0.368421052631579,
+            "MAJOR_INCREASE": 0.09523809523809525
+        },
+        "recall": {
+            "MAJOR_DECREASE": 0.23529411764705882,
+            "MINOR_DECREASE": 0.21951219512195122,
+            "NO_CHANGE": 0.0,
+            "MINOR_INCREASE": 0.22580645161290328,
+            "MAJOR_INCREASE": 0.2222222222222222
+        },
+        "f1": {
+            "MAJOR_DECREASE": 0.20512820512820512,
+            "MINOR_DECREASE": 0.28125,
+            "NO_CHANGE": 0,
+            "MINOR_INCREASE": 0.28,
+            "MAJOR_INCREASE": 0.13333333333333336
+        },
+        "percentage_of_each_class": {
+            "MINOR_DECREASE": 0.4019607843137255,
+            "MINOR_INCREASE": 0.30392156862745096,
+            "MAJOR_DECREASE": 0.16666666666666666,
+            "MAJOR_INCREASE": 0.08823529411764706,
+            "NO_CHANGE": 0.0392156862745098
+        }
+    }
+}

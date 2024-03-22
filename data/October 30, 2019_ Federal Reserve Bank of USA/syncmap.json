@@ -1,0 +1,4304 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "11.440",
+   "id": "f000001",
+   "language": "eng",
+   "lines": [
+    "Good afternoon, and welcome."
+   ]
+  },
+  {
+   "begin": "11.440",
+   "children": [],
+   "end": "16.200",
+   "id": "f000002",
+   "language": "eng",
+   "lines": [
+    "My colleagues at the Federal Reserve and I are dedicated to serving the American people."
+   ]
+  },
+  {
+   "begin": "16.200",
+   "children": [],
+   "end": "23.760",
+   "id": "f000003",
+   "language": "eng",
+   "lines": [
+    "We do this by steadfastly pursuing the goals that Congress has given us:  maximum employment and stable prices."
+   ]
+  },
+  {
+   "begin": "23.760",
+   "children": [],
+   "end": "29.880",
+   "id": "f000004",
+   "language": "eng",
+   "lines": [
+    "We\u2019re committed to making the best decisions we can based on facts and objective analysis."
+   ]
+  },
+  {
+   "begin": "29.880",
+   "children": [],
+   "end": "34.000",
+   "id": "f000005",
+   "language": "eng",
+   "lines": [
+    "Today we decided to lower the interest rates for the third time this year."
+   ]
+  },
+  {
+   "begin": "34.000",
+   "children": [],
+   "end": "43.160",
+   "id": "f000006",
+   "language": "eng",
+   "lines": [
+    "We took this step to help keep the U.S. economy strong in the face of global developments and to provide some insurance against ongoing risks."
+   ]
+  },
+  {
+   "begin": "43.160",
+   "children": [],
+   "end": "52.320",
+   "id": "f000007",
+   "language": "eng",
+   "lines": [
+    "As I will explain shortly, the policy adjustments we have made since last year are providing\u2014and will continue to provide\u2014meaningful support to the economy."
+   ]
+  },
+  {
+   "begin": "52.320",
+   "children": [],
+   "end": "56.960",
+   "id": "f000008",
+   "language": "eng",
+   "lines": [
+    "We believe that monetary policy is in a good place."
+   ]
+  },
+  {
+   "begin": "56.960",
+   "children": [],
+   "end": "65.080",
+   "id": "f000009",
+   "language": "eng",
+   "lines": [
+    "The U.S. economy is in its 11th year of expansion, and the baseline outlook remains favorable."
+   ]
+  },
+  {
+   "begin": "65.080",
+   "children": [],
+   "end": "68.160",
+   "id": "f000010",
+   "language": "eng",
+   "lines": [
+    "The overall economy is growing at a moderate rate."
+   ]
+  },
+  {
+   "begin": "68.160",
+   "children": [],
+   "end": "76.120",
+   "id": "f000011",
+   "language": "eng",
+   "lines": [
+    "Household spending continues to be strong, supported by a healthy job market, rising incomes, and solid consumer confidence."
+   ]
+  },
+  {
+   "begin": "76.120",
+   "children": [],
+   "end": "83.800",
+   "id": "f000012",
+   "language": "eng",
+   "lines": [
+    "In contrast, business investment and exports remain weak, and manufacturing output has declined over the past year."
+   ]
+  },
+  {
+   "begin": "83.800",
+   "children": [],
+   "end": "88.800",
+   "id": "f000013",
+   "language": "eng",
+   "lines": [
+    "Sluggish growth abroad and trade developments have been weighing on those sectors."
+   ]
+  },
+  {
+   "begin": "88.800",
+   "children": [],
+   "end": "97.920",
+   "id": "f000014",
+   "language": "eng",
+   "lines": [
+    "Looking ahead, we continue to expect the economy to expand at a moderate rate, reflecting solid household spending and supportive financial conditions."
+   ]
+  },
+  {
+   "begin": "97.920",
+   "children": [],
+   "end": "99.960",
+   "id": "f000015",
+   "language": "eng",
+   "lines": [
+    "The job market remains strong."
+   ]
+  },
+  {
+   "begin": "99.960",
+   "children": [],
+   "end": "104.440",
+   "id": "f000016",
+   "language": "eng",
+   "lines": [
+    "The unemployment rate has been near half-century lows for a year and a half."
+   ]
+  },
+  {
+   "begin": "104.440",
+   "children": [],
+   "end": "111.080",
+   "id": "f000017",
+   "language": "eng",
+   "lines": [
+    "The pace of job gains has eased this year but has remained solid; we had expected some slowing after last year\u2019s strong pace."
+   ]
+  },
+  {
+   "begin": "111.080",
+   "children": [],
+   "end": "122.560",
+   "id": "f000018",
+   "language": "eng",
+   "lines": [
+    "Participation in the labor force by people in their prime working years has been increasing, and wages have been rising, particularly for lower-paying jobs."
+   ]
+  },
+  {
+   "begin": "122.560",
+   "children": [],
+   "end": "133.000",
+   "id": "f000019",
+   "language": "eng",
+   "lines": [
+    "People who live and work in low- and middle-income communities tell us that many who have struggled to find work are now getting opportunities to add new and better chapters to their lives."
+   ]
+  },
+  {
+   "begin": "133.000",
+   "children": [],
+   "end": "142.560",
+   "id": "f000020",
+   "language": "eng",
+   "lines": [
+    "This underscores for us the importance of sustaining the expansion so that the strong job market reaches more of those left behind."
+   ]
+  },
+  {
+   "begin": "142.560",
+   "children": [],
+   "end": "147.440",
+   "id": "f000021",
+   "language": "eng",
+   "lines": [
+    "Inflation continues to run below our symmetric 2 percent objective."
+   ]
+  },
+  {
+   "begin": "147.440",
+   "children": [],
+   "end": "156.680",
+   "id": "f000022",
+   "language": "eng",
+   "lines": [
+    "Over the 12 months through August, total PCE inflation was 1.4 percent and core inflation was 1.8 percent."
+   ]
+  },
+  {
+   "begin": "156.680",
+   "children": [],
+   "end": "166.120",
+   "id": "f000023",
+   "language": "eng",
+   "lines": [
+    "Inflation pressures remain muted, and indicators of longer-term inflation expectations are at the lower end of their historic ranges."
+   ]
+  },
+  {
+   "begin": "166.120",
+   "children": [],
+   "end": "173.800",
+   "id": "f000024",
+   "language": "eng",
+   "lines": [
+    "We\u2019re mindful that continued below-target inflation could lead to an unwelcome downward slide in long-term inflation expectations."
+   ]
+  },
+  {
+   "begin": "173.800",
+   "children": [],
+   "end": "183.520",
+   "id": "f000025",
+   "language": "eng",
+   "lines": [
+    "However, against the backdrop of a strong economy and supportive monetary policy, we expect inflation will rise to 2 percent."
+   ]
+  },
+  {
+   "begin": "183.520",
+   "children": [],
+   "end": "194.240",
+   "id": "f000026",
+   "language": "eng",
+   "lines": [
+    "Overall, we continue to see sustained expansion of economic activity, a strong labor market, and inflation near our symmetric 2 percent objective as most likely."
+   ]
+  },
+  {
+   "begin": "194.240",
+   "children": [],
+   "end": "204.120",
+   "id": "f000027",
+   "language": "eng",
+   "lines": [
+    "While this has been our outlook for quite some time, our views about the path of interest rates that will best achieve these outcomes have changed significantly over the past year."
+   ]
+  },
+  {
+   "begin": "204.120",
+   "children": [],
+   "end": "211.200",
+   "id": "f000028",
+   "language": "eng",
+   "lines": [
+    "As I mentioned, weakness in global growth and trade developments have weighed on the economy and pose ongoing risks."
+   ]
+  },
+  {
+   "begin": "211.200",
+   "children": [],
+   "end": "220.600",
+   "id": "f000029",
+   "language": "eng",
+   "lines": [
+    "These factors, in conjunction with muted inflation pressures, have led us to lower our assessment of the appropriate level of the federal funds rate over the past year."
+   ]
+  },
+  {
+   "begin": "220.600",
+   "children": [],
+   "end": "232.760",
+   "id": "f000030",
+   "language": "eng",
+   "lines": [
+    "In both July and September, we reduced the target rate [range] for the federal funds rate by \u00bc percentage point, and we did so again today, bringing the range to 1\u00bd to 1\u00be percent."
+   ]
+  },
+  {
+   "begin": "232.760",
+   "children": [],
+   "end": "239.120",
+   "id": "f000031",
+   "language": "eng",
+   "lines": [
+    "The policy adjustments we\u2019ve made to date will continue to provide significant support for the economy."
+   ]
+  },
+  {
+   "begin": "239.120",
+   "children": [],
+   "end": "250.320",
+   "id": "f000032",
+   "language": "eng",
+   "lines": [
+    "Since monetary policy operates with a lag, the full effects of these adjustments on economic growth, the job market, and inflation will be realized over time."
+   ]
+  },
+  {
+   "begin": "250.320",
+   "children": [],
+   "end": "269.200",
+   "id": "f000033",
+   "language": "eng",
+   "lines": [
+    "We see the current stance of monetary policy as likely to remain appropriate as long as incoming information about the economy remains broadly consistent with our outlook of moderate economic growth, a strong labor market, and inflation near our symmetric 2 percent objective."
+   ]
+  },
+  {
+   "begin": "269.200",
+   "children": [],
+   "end": "273.440",
+   "id": "f000034",
+   "language": "eng",
+   "lines": [
+    "We believe monetary policy is in a good place to achieve these outcomes."
+   ]
+  },
+  {
+   "begin": "273.440",
+   "children": [],
+   "end": "283.880",
+   "id": "f000035",
+   "language": "eng",
+   "lines": [
+    "Looking ahead, we\u2019ll be monitoring the effects of our policy actions, along with other information bearing on the outlook, as we assess the appropriate path of the target range for the fed funds rate."
+   ]
+  },
+  {
+   "begin": "283.880",
+   "children": [],
+   "end": "290.200",
+   "id": "f000036",
+   "language": "eng",
+   "lines": [
+    "Of course, if developments emerge that cause a material reassessment of our outlook, we would respond accordingly."
+   ]
+  },
+  {
+   "begin": "290.200",
+   "children": [],
+   "end": "294.920",
+   "id": "f000037",
+   "language": "eng",
+   "lines": [
+    "Policy is not on a preset course."
+   ]
+  },
+  {
+   "begin": "294.920",
+   "children": [],
+   "end": "301.120",
+   "id": "f000038",
+   "language": "eng",
+   "lines": [
+    "Let me end with a few words about our technical monetary policy operations."
+   ]
+  },
+  {
+   "begin": "301.120",
+   "children": [],
+   "end": "307.640",
+   "id": "f000039",
+   "language": "eng",
+   "lines": [
+    "In January, we made the key decision to continue to implement monetary policy in an ample-reserves regime."
+   ]
+  },
+  {
+   "begin": "307.640",
+   "children": [],
+   "end": "318.280",
+   "id": "f000040",
+   "language": "eng",
+   "lines": [
+    "In that operating framework, we control the federal funds rate primarily by setting our administered rates, not through frequent interventions to actively manage the supply of reserves."
+   ]
+  },
+  {
+   "begin": "318.280",
+   "children": [],
+   "end": "328.440",
+   "id": "f000041",
+   "language": "eng",
+   "lines": [
+    "In the transition to the efficient and effective level of reserves in this regime, we slowed the gradual decline in our balance sheet in March and we stopped it in July."
+   ]
+  },
+  {
+   "begin": "328.440",
+   "children": [],
+   "end": "342.040",
+   "id": "f000042",
+   "language": "eng",
+   "lines": [
+    "In response to the funding pressures in money markets that emerged in mid-September, we concluded that it would be appropriate to maintain, over a time\u2014over time, a level of reserve balances at or above the level that prevailed in early September of this year."
+   ]
+  },
+  {
+   "begin": "342.040",
+   "children": [],
+   "end": "357.240",
+   "id": "f000043",
+   "language": "eng",
+   "lines": [
+    "To achieve this ample level, we announced on October 11 that we would purchase Treasury bills at least into the second quarter of next year as well as continue temporary open market operations at least through January."
+   ]
+  },
+  {
+   "begin": "357.240",
+   "children": [],
+   "end": "367.040",
+   "id": "f000044",
+   "language": "eng",
+   "lines": [
+    "These actions are purely technical measures to support the effective implementation of monetary policy as we continue to learn about the appropriate level of reserves."
+   ]
+  },
+  {
+   "begin": "367.040",
+   "children": [],
+   "end": "370.680",
+   "id": "f000045",
+   "language": "eng",
+   "lines": [
+    "They do not represent a change in the stance of monetary policy."
+   ]
+  },
+  {
+   "begin": "370.680",
+   "children": [],
+   "end": "379.840",
+   "id": "f000046",
+   "language": "eng",
+   "lines": [
+    "In particular, our Treasury bill purchases should not be confused with the large-scale asset purchase programs that we deployed after the financial crisis."
+   ]
+  },
+  {
+   "begin": "379.840",
+   "children": [],
+   "end": "388.640",
+   "id": "f000047",
+   "language": "eng",
+   "lines": [
+    "In those programs, we purchased longer-term securities to put downward pressure on longer-term interest rates and ease broader financial conditions."
+   ]
+  },
+  {
+   "begin": "388.640",
+   "children": [],
+   "end": "403.040",
+   "id": "f000048",
+   "language": "eng",
+   "lines": [
+    "In contrast, increasing the supply of reserves by purchasing Treasury bills only alters the mix of short-term assets held by the public and should not materially affect demand and supply for longer-term securities or financial conditions more broadly."
+   ]
+  },
+  {
+   "begin": "403.040",
+   "children": [],
+   "end": "403.600",
+   "id": "f000049",
+   "language": "eng",
+   "lines": [
+    "Thank you."
+   ]
+  },
+  {
+   "begin": "403.600",
+   "children": [],
+   "end": "406.840",
+   "id": "f000050",
+   "language": "eng",
+   "lines": [
+    "I will be happy to take your questions."
+   ]
+  },
+  {
+   "begin": "406.840",
+   "children": [],
+   "end": "411.200",
+   "id": "f000051",
+   "language": "eng",
+   "lines": [
+    "Michael McKee with Bloomberg Radio and Television."
+   ]
+  },
+  {
+   "begin": "411.200",
+   "children": [],
+   "end": "413.440",
+   "id": "f000052",
+   "language": "eng",
+   "lines": [
+    "So I guess the question is, is this it?"
+   ]
+  },
+  {
+   "begin": "413.440",
+   "children": [],
+   "end": "420.720",
+   "id": "f000053",
+   "language": "eng",
+   "lines": [
+    "Do you consider rates to be accommodative enough now to achieve your goal of sustaining the expansion?"
+   ]
+  },
+  {
+   "begin": "420.720",
+   "children": [],
+   "end": "433.000",
+   "id": "f000054",
+   "language": "eng",
+   "lines": [
+    "And as far as global Wall Street\u2019s primary question, what kind of change in the economy would cause you to reassess\u2014some sort of significant deterioration in what?"
+   ]
+  },
+  {
+   "begin": "433.000",
+   "children": [],
+   "end": "451.120",
+   "id": "f000055",
+   "language": "eng",
+   "lines": [
+    "So what we\u2019ve said, to repeat, is that we see the current stance of policy as \u201clikely to remain appropriate as long as incoming information about the economy remains broadly consistent with our outlook.\u201d  And we say that, really, because both of the performance of the economy and the stance of policy."
+   ]
+  },
+  {
+   "begin": "451.120",
+   "children": [],
+   "end": "471.960",
+   "id": "f000056",
+   "language": "eng",
+   "lines": [
+    "The performance of the economy has been\u2014particularly the household sector\u2014has been strong, has been resilient, with low unemployment, attractive levels of job creation, wages moving up, labor force participation moving up, household confidence, and solid gains in many measures of consumer spending."
+   ]
+  },
+  {
+   "begin": "471.960",
+   "children": [],
+   "end": "477.680",
+   "id": "f000057",
+   "language": "eng",
+   "lines": [
+    "The manufacturing sector, particularly manufacturing, and also investment and exports have been weaker."
+   ]
+  },
+  {
+   "begin": "477.680",
+   "children": [],
+   "end": "481.600",
+   "id": "f000058",
+   "language": "eng",
+   "lines": [
+    "But, overall, we\u2019ve seen moderate growth, a strong labor market, inflation moving up."
+   ]
+  },
+  {
+   "begin": "481.600",
+   "children": [],
+   "end": "483.720",
+   "id": "f000059",
+   "language": "eng",
+   "lines": [
+    "We see the outlook as for more of the same."
+   ]
+  },
+  {
+   "begin": "483.720",
+   "children": [],
+   "end": "493.120",
+   "id": "f000060",
+   "language": "eng",
+   "lines": [
+    "We also see the risks to the outlook as perhaps having moved in a positive direction over the course of this intermeeting period, although, some remain\u2014some things remain to be seen."
+   ]
+  },
+  {
+   "begin": "493.120",
+   "children": [],
+   "end": "493.960",
+   "id": "f000061",
+   "language": "eng",
+   "lines": [
+    "So that\u2019s the economy."
+   ]
+  },
+  {
+   "begin": "493.960",
+   "children": [],
+   "end": "506.920",
+   "id": "f000062",
+   "language": "eng",
+   "lines": [
+    "Turning to policy, we\u2019ve moved the stance of policy over the course of the year to a more accommodative stance, and, after the cuts at the last three meetings, the federal funds rate is now in a range between 1\u00bd and 1\u00be percent."
+   ]
+  },
+  {
+   "begin": "506.920",
+   "children": [],
+   "end": "511.800",
+   "id": "f000063",
+   "language": "eng",
+   "lines": [
+    "We feel that policy is well positioned to support the outlook that I described."
+   ]
+  },
+  {
+   "begin": "511.800",
+   "children": [],
+   "end": "527.320",
+   "id": "f000064",
+   "language": "eng",
+   "lines": [
+    "So you asked what it would take, you know, to move, and, as I mentioned, we\u2019re going to be watching all factors,  And if developments emerge that cause a material reassessment of our outlook, we would respond accordingly."
+   ]
+  },
+  {
+   "begin": "527.320",
+   "children": [],
+   "end": "531.720",
+   "id": "f000065",
+   "language": "eng",
+   "lines": [
+    "But that\u2019s what it would take:  a material reassessment of our outlook."
+   ]
+  },
+  {
+   "begin": "531.720",
+   "children": [],
+   "end": "539.280",
+   "id": "f000066",
+   "language": "eng",
+   "lines": [
+    "If I could follow up\u2014if the markets decide that you need to cut rates again, will you be forced to follow?"
+   ]
+  },
+  {
+   "begin": "539.280",
+   "children": [],
+   "end": "545.880",
+   "id": "f000067",
+   "language": "eng",
+   "lines": [
+    "We\u2019ll be looking at a full range of data about the economy and about the risks to the outlook, and I\u2019ve given you a sense of what our outlook is."
+   ]
+  },
+  {
+   "begin": "545.880",
+   "children": [],
+   "end": "553.240",
+   "id": "f000068",
+   "language": "eng",
+   "lines": [
+    "It\u2019s for moderate growth, a strong labor market, and inflation near our 2 percent objective."
+   ]
+  },
+  {
+   "begin": "553.240",
+   "children": [],
+   "end": "560.240",
+   "id": "f000069",
+   "language": "eng",
+   "lines": [
+    "If something happens to cause us to materially reassess that outlook, that\u2019s what would cause us to change our views on the appropriate stance of policy."
+   ]
+  },
+  {
+   "begin": "560.240",
+   "children": [],
+   "end": "569.120",
+   "id": "f000070",
+   "language": "eng",
+   "lines": [
+    "Hi, Heather Long from the Washington Post."
+   ]
+  },
+  {
+   "begin": "569.120",
+   "children": [],
+   "end": "574.440",
+   "id": "f000071",
+   "language": "eng",
+   "lines": [
+    "You just said that the risks to the outlook are moving in a positive direction."
+   ]
+  },
+  {
+   "begin": "574.440",
+   "children": [],
+   "end": "579.120",
+   "id": "f000072",
+   "language": "eng",
+   "lines": [
+    "I\u2019m wondering if you could specify\u2014is that on trade, or are there other matters?"
+   ]
+  },
+  {
+   "begin": "579.120",
+   "children": [],
+   "end": "589.720",
+   "id": "f000073",
+   "language": "eng",
+   "lines": [
+    "This morning we obviously learned that we\u2019ve now had two quarters of contracting business investment, which would seem to be moving the outlook in the other direction."
+   ]
+  },
+  {
+   "begin": "589.720",
+   "children": [],
+   "end": "602.720",
+   "id": "f000074",
+   "language": "eng",
+   "lines": [
+    "So, in terms of risks, what I was referring to there\u2014the principal risks that we\u2019ve been monitoring have been, really, slowing global growth and trade policy developments as well as muted inflation pressure."
+   ]
+  },
+  {
+   "begin": "602.720",
+   "children": [],
+   "end": "607.080",
+   "id": "f000075",
+   "language": "eng",
+   "lines": [
+    "So I was really referring there to trade developments."
+   ]
+  },
+  {
+   "begin": "607.080",
+   "children": [],
+   "end": "626.320",
+   "id": "f000076",
+   "language": "eng",
+   "lines": [
+    "We have that phase-one potential agreement with China, which, if signed and put into effect, could have the effect of reducing trade tensions and reducing uncertainty, and that would bode well, we think, for business confidence and perhaps activity over time."
+   ]
+  },
+  {
+   "begin": "626.320",
+   "children": [],
+   "end": "631.840",
+   "id": "f000077",
+   "language": "eng",
+   "lines": [
+    "So that has the potential for being an improvement in the risk picture."
+   ]
+  },
+  {
+   "begin": "631.840",
+   "children": [],
+   "end": "642.760",
+   "id": "f000078",
+   "language": "eng",
+   "lines": [
+    "Brexit, I would say, as well\u2014it appears that the risk of a no-deal Brexit seems to have materially declined."
+   ]
+  },
+  {
+   "begin": "642.760",
+   "children": [],
+   "end": "650.200",
+   "id": "f000079",
+   "language": "eng",
+   "lines": [
+    "I think on both situations there\u2019s plenty of risk left, but I\u2019d have to say that the risks seem to have subsided."
+   ]
+  },
+  {
+   "begin": "650.200",
+   "children": [],
+   "end": "653.200",
+   "id": "f000080",
+   "language": "eng",
+   "lines": [
+    "You asked about business investment, and that\u2019s right."
+   ]
+  },
+  {
+   "begin": "653.200",
+   "children": [],
+   "end": "657.640",
+   "id": "f000081",
+   "language": "eng",
+   "lines": [
+    "Business investment has been weak, and today\u2019s reading was weak as well."
+   ]
+  },
+  {
+   "begin": "657.640",
+   "children": [],
+   "end": "667.440",
+   "id": "f000082",
+   "language": "eng",
+   "lines": [
+    "And it was broad across equipment and other parts of\u2014all parts of business fixed investment were weak."
+   ]
+  },
+  {
+   "begin": "667.440",
+   "children": [],
+   "end": "671.480",
+   "id": "f000083",
+   "language": "eng",
+   "lines": [
+    "That\u2019s consistent with what we\u2019ve seen, but that\u2019s the economy we\u2019ve had this year."
+   ]
+  },
+  {
+   "begin": "671.480",
+   "children": [],
+   "end": "684.160",
+   "id": "f000084",
+   "language": "eng",
+   "lines": [
+    "What we\u2019ve had is an economy where the consumer is really driving growth, and, you know, personal consumption expenditures were almost 3 percent in this quarter\u2014in this first reading for the quarter."
+   ]
+  },
+  {
+   "begin": "684.160",
+   "children": [],
+   "end": "691.240",
+   "id": "f000085",
+   "language": "eng",
+   "lines": [
+    "So, overall, we see the economy as having been resilient to the\u2014you know, the winds that have been blowing this year."
+   ]
+  },
+  {
+   "begin": "691.240",
+   "children": [],
+   "end": "693.360",
+   "id": "f000086",
+   "language": "eng",
+   "lines": [
+    "Can I just follow up quickly?"
+   ]
+  },
+  {
+   "begin": "693.360",
+   "children": [],
+   "end": "701.720",
+   "id": "f000087",
+   "language": "eng",
+   "lines": [
+    "I mean, there\u2019s this concern that I sometimes hear that, with business, businesses have cut investment, and are they going to turn around and cut employment?"
+   ]
+  },
+  {
+   "begin": "701.720",
+   "children": [],
+   "end": "705.360",
+   "id": "f000088",
+   "language": "eng",
+   "lines": [
+    "You know, sort of, if they continue to be concerned."
+   ]
+  },
+  {
+   "begin": "705.360",
+   "children": [],
+   "end": "708.920",
+   "id": "f000089",
+   "language": "eng",
+   "lines": [
+    "Can you give a sense of how the Committee is thinking\u2014thinking through that possibility?"
+   ]
+  },
+  {
+   "begin": "708.920",
+   "children": [],
+   "end": "710.080",
+   "id": "f000090",
+   "language": "eng",
+   "lines": [
+    "Yes, so that is a risk."
+   ]
+  },
+  {
+   "begin": "710.080",
+   "children": [],
+   "end": "712.680",
+   "id": "f000091",
+   "language": "eng",
+   "lines": [
+    "That\u2019s a risk that we\u2019ve been monitoring, but we don\u2019t see it yet."
+   ]
+  },
+  {
+   "begin": "712.680",
+   "children": [],
+   "end": "716.440",
+   "id": "f000092",
+   "language": "eng",
+   "lines": [
+    "We don\u2019t see rising initial claims or layoffs or anything like that."
+   ]
+  },
+  {
+   "begin": "716.440",
+   "children": [],
+   "end": "727.200",
+   "id": "f000093",
+   "language": "eng",
+   "lines": [
+    "But the risk you mention of the weakness in the manufacturing\u2014in export investment, business investment, parts of the economy getting into the consumer side of the economy, we really don\u2019t see that."
+   ]
+  },
+  {
+   "begin": "727.200",
+   "children": [],
+   "end": "729.680",
+   "id": "f000094",
+   "language": "eng",
+   "lines": [
+    "What we continue to see is good job creation."
+   ]
+  },
+  {
+   "begin": "729.680",
+   "children": [],
+   "end": "739.600",
+   "id": "f000095",
+   "language": "eng",
+   "lines": [
+    "Unemployment has declined again, and the household survey is now at a 50-year low\u2014has been, you know, very close to 50-year lows for 18 months now."
+   ]
+  },
+  {
+   "begin": "739.600",
+   "children": [],
+   "end": "741.680",
+   "id": "f000096",
+   "language": "eng",
+   "lines": [
+    "So it\u2019s very positive."
+   ]
+  },
+  {
+   "begin": "741.680",
+   "children": [],
+   "end": "754.640",
+   "id": "f000097",
+   "language": "eng",
+   "lines": [
+    "The consumer-facing companies that we talk to in our vast network of contacts report, you know, that consumers are doing well and are focused on, you know, the good job market and rising incomes, and that\u2019s their principle focus."
+   ]
+  },
+  {
+   "begin": "754.640",
+   "children": [],
+   "end": "761.640",
+   "id": "f000098",
+   "language": "eng",
+   "lines": [
+    "So that is the thing that\u2019s pushing the economy forward, and it doesn\u2019t seem to have been affected so far by weakness in the other areas."
+   ]
+  },
+  {
+   "begin": "761.640",
+   "children": [],
+   "end": "769.000",
+   "id": "f000099",
+   "language": "eng",
+   "lines": [
+    "Jeanna Smialek from the New York Times."
+   ]
+  },
+  {
+   "begin": "769.000",
+   "children": [],
+   "end": "771.000",
+   "id": "f000100",
+   "language": "eng",
+   "lines": [
+    "Thanks for taking our questions."
+   ]
+  },
+  {
+   "begin": "771.000",
+   "children": [],
+   "end": "783.320",
+   "id": "f000101",
+   "language": "eng",
+   "lines": [
+    "So you\u2019ve previously sort of compared this rate-cutting cycle to the insurance cuts in the \u201990s, and in both of those instances, the Greenspan Fed took those cuts back after a while."
+   ]
+  },
+  {
+   "begin": "783.320",
+   "children": [],
+   "end": "785.240",
+   "id": "f000102",
+   "language": "eng",
+   "lines": [
+    "They raised rates again fairly quickly."
+   ]
+  },
+  {
+   "begin": "785.240",
+   "children": [],
+   "end": "789.640",
+   "id": "f000103",
+   "language": "eng",
+   "lines": [
+    "And I guess I\u2019m just curious what the onus is for doing that in this cycle."
+   ]
+  },
+  {
+   "begin": "789.640",
+   "children": [],
+   "end": "793.560",
+   "id": "f000104",
+   "language": "eng",
+   "lines": [
+    "What would make you guys decide it\u2019s appropriate to raise interest rates again?"
+   ]
+  },
+  {
+   "begin": "793.560",
+   "children": [],
+   "end": "810.080",
+   "id": "f000105",
+   "language": "eng",
+   "lines": [
+    "So the reason why we raised interest rates is because\u2014generally is because we see inflation as moving up\u2014or, in danger of moving up significantly, and we really don\u2019t see that now."
+   ]
+  },
+  {
+   "begin": "810.080",
+   "children": [],
+   "end": "813.760",
+   "id": "f000106",
+   "language": "eng",
+   "lines": [
+    "Inflation moved down in the first quarter of this year."
+   ]
+  },
+  {
+   "begin": "813.760",
+   "children": [],
+   "end": "818.440",
+   "id": "f000107",
+   "language": "eng",
+   "lines": [
+    "We thought that that was due, to some extent, to idiosyncratic or transient factors."
+   ]
+  },
+  {
+   "begin": "818.440",
+   "children": [],
+   "end": "821.200",
+   "id": "f000108",
+   "language": "eng",
+   "lines": [
+    "That turns out to have been the case, so it\u2019s moved back up."
+   ]
+  },
+  {
+   "begin": "821.200",
+   "children": [],
+   "end": "824.480",
+   "id": "f000109",
+   "language": "eng",
+   "lines": [
+    "But it seems to be settling in below 2 percent."
+   ]
+  },
+  {
+   "begin": "824.480",
+   "children": [],
+   "end": "827.280",
+   "id": "f000110",
+   "language": "eng",
+   "lines": [
+    "So we really don\u2019t see that risk."
+   ]
+  },
+  {
+   "begin": "827.280",
+   "children": [],
+   "end": "839.960",
+   "id": "f000111",
+   "language": "eng",
+   "lines": [
+    "And inflation expectations have also kind of moved down and sideways\u2014both surveys and market based over the course of this\u2014of, really, the recent months."
+   ]
+  },
+  {
+   "begin": "839.960",
+   "children": [],
+   "end": "850.400",
+   "id": "f000112",
+   "language": "eng",
+   "lines": [
+    "And, you know, we think that inflation expectations are very important in driving actual inflation, and we\u2019re strongly committed to achieving our 2 percent inflation objective on a symmetric basis."
+   ]
+  },
+  {
+   "begin": "850.400",
+   "children": [],
+   "end": "852.080",
+   "id": "f000113",
+   "language": "eng",
+   "lines": [
+    "We think it\u2019s essential that we do that."
+   ]
+  },
+  {
+   "begin": "852.080",
+   "children": [],
+   "end": "854.920",
+   "id": "f000114",
+   "language": "eng",
+   "lines": [
+    "So we\u2019re not thinking about raising rates right now."
+   ]
+  },
+  {
+   "begin": "854.920",
+   "children": [],
+   "end": "858.480",
+   "id": "f000115",
+   "language": "eng",
+   "lines": [
+    "There obviously will be times in the future where that will be appropriate."
+   ]
+  },
+  {
+   "begin": "858.480",
+   "children": [],
+   "end": "869.000",
+   "id": "f000116",
+   "language": "eng",
+   "lines": [
+    "What we\u2019re really thinking now is that our current stance of policy is appropriate and will remain so as long as the outlook is broadly in keeping with our expectations."
+   ]
+  },
+  {
+   "begin": "869.000",
+   "children": [],
+   "end": "874.440",
+   "id": "f000117",
+   "language": "eng",
+   "lines": [
+    "Mr.\u2014Steve Liesman, CNBC."
+   ]
+  },
+  {
+   "begin": "874.440",
+   "children": [],
+   "end": "884.720",
+   "id": "f000118",
+   "language": "eng",
+   "lines": [
+    "Mr. Chairman, I\u2019m\u2014not to make light of it, but I\u2019m a little bit\u2014I wonder if you could help me out with the appropriate understanding of the word \u201cappropriate\u201d here."
+   ]
+  },
+  {
+   "begin": "884.720",
+   "children": [],
+   "end": "895.960",
+   "id": "f000119",
+   "language": "eng",
+   "lines": [
+    "So the statement says that the Committee is going \u201cto monitor the implications of incoming information for the outlook as it assesses the appropriate path of the target range.\u201d  That tells me you could go either way."
+   ]
+  },
+  {
+   "begin": "895.960",
+   "children": [],
+   "end": "903.440",
+   "id": "f000120",
+   "language": "eng",
+   "lines": [
+    "You came in, and you used the word \u201cappropriate,\u201d that the current rate is \u201clikely to remain appropriate,\u201d which means you\u2019re on hold."
+   ]
+  },
+  {
+   "begin": "903.440",
+   "children": [],
+   "end": "909.240",
+   "id": "f000121",
+   "language": "eng",
+   "lines": [
+    "So how do I walk away from this, and what should we walk away from this believing what \u201cappropriate\u201d means?"
+   ]
+  },
+  {
+   "begin": "909.240",
+   "children": [],
+   "end": "915.040",
+   "id": "f000122",
+   "language": "eng",
+   "lines": [
+    "Are you on hold and need to be proved wrong that you should remain on hold, or is it, really, you could go either way here?"
+   ]
+  },
+  {
+   "begin": "915.040",
+   "children": [],
+   "end": "915.600",
+   "id": "f000123",
+   "language": "eng",
+   "lines": [
+    "Thank you."
+   ]
+  },
+  {
+   "begin": "915.600",
+   "children": [],
+   "end": "933.920",
+   "id": "f000124",
+   "language": "eng",
+   "lines": [
+    "So we think that the current stance of policy is likely to remain appropriate\u2014likely to remain appropriate\u2014as long as incoming information about the economy is broadly consistent with our outlook, which is a positive one of moderate economic growth, strong labor market, and inflation moving close to 2 percent."
+   ]
+  },
+  {
+   "begin": "933.920",
+   "children": [],
+   "end": "935.280",
+   "id": "f000125",
+   "language": "eng",
+   "lines": [
+    "That\u2019s\u2014so that\u2019s what we\u2019re saying about that."
+   ]
+  },
+  {
+   "begin": "935.280",
+   "children": [],
+   "end": "943.000",
+   "id": "f000126",
+   "language": "eng",
+   "lines": [
+    "We also say, of course, if developments emerge that cause a material reassessment of that outlook, we would respond accordingly."
+   ]
+  },
+  {
+   "begin": "943.000",
+   "children": [],
+   "end": "944.640",
+   "id": "f000127",
+   "language": "eng",
+   "lines": [
+    "So that\u2019s really how we\u2019re thinking about it."
+   ]
+  },
+  {
+   "begin": "944.640",
+   "children": [],
+   "end": "949.200",
+   "id": "f000128",
+   "language": "eng",
+   "lines": [
+    "I can\u2019t point to one data point or one thing that would change our minds."
+   ]
+  },
+  {
+   "begin": "949.200",
+   "children": [],
+   "end": "956.400",
+   "id": "f000129",
+   "language": "eng",
+   "lines": [
+    "It really\u2014it would be a reassessment of\u2014a material reassessment of our overall outlook, which is what I described."
+   ]
+  },
+  {
+   "begin": "956.400",
+   "children": [],
+   "end": "961.280",
+   "id": "f000130",
+   "language": "eng",
+   "lines": [
+    "I\u2019m sorry, just to\u2014why isn\u2019t the phrase \u201clikely to remain appropriate\u201d in the statement if that\u2019s the sense of the Committee?"
+   ]
+  },
+  {
+   "begin": "961.280",
+   "children": [],
+   "end": "973.720",
+   "id": "f000131",
+   "language": "eng",
+   "lines": [
+    "Well, there\u2019s\u2014there\u2019s a lot of, you know, practice and science and history, in terms of how much you put in the actual postmeeting statement as opposed to what we say in the press conference statement."
+   ]
+  },
+  {
+   "begin": "973.720",
+   "children": [],
+   "end": "976.160",
+   "id": "f000132",
+   "language": "eng",
+   "lines": [
+    "It\u2019s a\u2014you know, it\u2019s a judgment call."
+   ]
+  },
+  {
+   "begin": "976.160",
+   "children": [],
+   "end": "982.080",
+   "id": "f000133",
+   "language": "eng",
+   "lines": [
+    "You know, I\u2019m saying it now, so\u2014 STEVE LIESMAN."
+   ]
+  },
+  {
+   "begin": "982.080",
+   "children": [],
+   "end": "983.320",
+   "id": "f000134",
+   "language": "eng",
+   "lines": [
+    "Thanks."
+   ]
+  },
+  {
+   "begin": "983.320",
+   "children": [],
+   "end": "983.680",
+   "id": "f000135",
+   "language": "eng",
+   "lines": [
+    "Thank you."
+   ]
+  },
+  {
+   "begin": "983.680",
+   "children": [],
+   "end": "985.440",
+   "id": "f000136",
+   "language": "eng",
+   "lines": [
+    "Nick Timiraos with the Wall Street Journal."
+   ]
+  },
+  {
+   "begin": "985.440",
+   "children": [],
+   "end": "1002.440",
+   "id": "f000137",
+   "language": "eng",
+   "lines": [
+    "You described the recent slide, Chair Powell, in inflation expectations as \u201cunwelcome.\u201d  You said that inflation expectations are \u201cvery important.\u201d  What, if anything, would the Committee be prepared to do to address this slide in inflation expectations if it continued?"
+   ]
+  },
+  {
+   "begin": "1002.440",
+   "children": [],
+   "end": "1010.680",
+   "id": "f000138",
+   "language": "eng",
+   "lines": [
+    "So, as I mentioned, we do think that inflation expectations are\u2014they\u2019re quite essential, quite central in our framework of how we think about inflation."
+   ]
+  },
+  {
+   "begin": "1010.680",
+   "children": [],
+   "end": "1016.120",
+   "id": "f000139",
+   "language": "eng",
+   "lines": [
+    "We need them to be anchored in a level\u2014at a level that\u2019s consistent with our symmetric 2 percent inflation goal."
+   ]
+  },
+  {
+   "begin": "1016.120",
+   "children": [],
+   "end": "1025.760",
+   "id": "f000140",
+   "language": "eng",
+   "lines": [
+    "And we think that we need to conduct policy in a way that supports that outcome."
+   ]
+  },
+  {
+   "begin": "1025.760",
+   "children": [],
+   "end": "1027.360",
+   "id": "f000141",
+   "language": "eng",
+   "lines": [
+    "That\u2019s what we\u2019re doing now."
+   ]
+  },
+  {
+   "begin": "1027.360",
+   "children": [],
+   "end": "1046.440",
+   "id": "f000142",
+   "language": "eng",
+   "lines": [
+    "We\u2019re also, as part of our review, looking at potential innovations, changes to the way we think about things, changes to the framework that would lead us\u2014that would be more supportive of achieving inflation on a 2 percent\u2014on a symmetric 2 percent basis over time."
+   ]
+  },
+  {
+   "begin": "1046.440",
+   "children": [],
+   "end": "1048.960",
+   "id": "f000143",
+   "language": "eng",
+   "lines": [
+    "That\u2019s at the very heart of what we\u2019re doing in the review."
+   ]
+  },
+  {
+   "begin": "1048.960",
+   "children": [],
+   "end": "1050.680",
+   "id": "f000144",
+   "language": "eng",
+   "lines": [
+    "It\u2019s too early to be announcing decisions."
+   ]
+  },
+  {
+   "begin": "1050.680",
+   "children": [],
+   "end": "1051.800",
+   "id": "f000145",
+   "language": "eng",
+   "lines": [
+    "We haven\u2019t made them yet."
+   ]
+  },
+  {
+   "begin": "1051.800",
+   "children": [],
+   "end": "1061.960",
+   "id": "f000146",
+   "language": "eng",
+   "lines": [
+    "But we\u2019re in the middle of thinking about ways that we can make that symmetric 2 percent inflation objective more credible by achieving symmetric 2 percent inflation."
+   ]
+  },
+  {
+   "begin": "1061.960",
+   "children": [],
+   "end": "1071.000",
+   "id": "f000147",
+   "language": "eng",
+   "lines": [
+    "And it comes down to using your policy tools to achieve 2 percent inflation, and that is the\u2014that is the thing that must happen for credibility in this area."
+   ]
+  },
+  {
+   "begin": "1071.000",
+   "children": [],
+   "end": "1074.080",
+   "id": "f000148",
+   "language": "eng",
+   "lines": [
+    "So we\u2019re committed to doing that."
+   ]
+  },
+  {
+   "begin": "1074.080",
+   "children": [],
+   "end": "1076.720",
+   "id": "f000149",
+   "language": "eng",
+   "lines": [
+    "How soon do you think that review might be announced to the public?"
+   ]
+  },
+  {
+   "begin": "1076.720",
+   "children": [],
+   "end": "1086.120",
+   "id": "f000150",
+   "language": "eng",
+   "lines": [
+    "So we\u2019re in the middle\u2014we\u2019re really quite in the middle of it now, and my thinking is still that it will run into the middle of next year."
+   ]
+  },
+  {
+   "begin": "1086.120",
+   "children": [],
+   "end": "1092.000",
+   "id": "f000151",
+   "language": "eng",
+   "lines": [
+    "These are\u2014you know, these changes to monetary policy frameworks happen\u2014they don\u2019t happen really quickly, let\u2019s say."
+   ]
+  },
+  {
+   "begin": "1092.000",
+   "children": [],
+   "end": "1094.440",
+   "id": "f000152",
+   "language": "eng",
+   "lines": [
+    "Inflation targeting took many years to evolve."
+   ]
+  },
+  {
+   "begin": "1094.440",
+   "children": [],
+   "end": "1096.200",
+   "id": "f000153",
+   "language": "eng",
+   "lines": [
+    "I don\u2019t think we\u2019ll take many years here."
+   ]
+  },
+  {
+   "begin": "1096.200",
+   "children": [],
+   "end": "1101.120",
+   "id": "f000154",
+   "language": "eng",
+   "lines": [
+    "I think we\u2019ll wrap it up around the middle of next year, would be my guess."
+   ]
+  },
+  {
+   "begin": "1101.120",
+   "children": [],
+   "end": "1105.960",
+   "id": "f000155",
+   "language": "eng",
+   "lines": [
+    "I have some confidence in that."
+   ]
+  },
+  {
+   "begin": "1105.960",
+   "children": [],
+   "end": "1108.800",
+   "id": "f000156",
+   "language": "eng",
+   "lines": [
+    "Edward Lawrence of Fox Business."
+   ]
+  },
+  {
+   "begin": "1108.800",
+   "children": [],
+   "end": "1110.360",
+   "id": "f000157",
+   "language": "eng",
+   "lines": [
+    "Thank you, Mr. Chairman, for taking this."
+   ]
+  },
+  {
+   "begin": "1110.360",
+   "children": [],
+   "end": "1120.840",
+   "id": "f000158",
+   "language": "eng",
+   "lines": [
+    "So how big of a change, then, to monetary policy would there be if you get some of that uncertainty cleared up\u2014specifically, the phase-one China trade deal finished and USMCA ratified?"
+   ]
+  },
+  {
+   "begin": "1120.840",
+   "children": [],
+   "end": "1129.040",
+   "id": "f000159",
+   "language": "eng",
+   "lines": [
+    "How big of a change could that be to the monetary policy as it stands here, and could we see rate cuts next year\u2014or, rate hikes next year?"
+   ]
+  },
+  {
+   "begin": "1129.040",
+   "children": [],
+   "end": "1129.560",
+   "id": "f000160",
+   "language": "eng",
+   "lines": [
+    "I\u2019m sorry."
+   ]
+  },
+  {
+   "begin": "1129.560",
+   "children": [],
+   "end": "1130.840",
+   "id": "f000161",
+   "language": "eng",
+   "lines": [
+    "Rate hikes for next year."
+   ]
+  },
+  {
+   "begin": "1130.840",
+   "children": [],
+   "end": "1134.840",
+   "id": "f000162",
+   "language": "eng",
+   "lines": [
+    "Yes, because I\u2019ve heard the argument that trade\u2019s causing the uncertainty."
+   ]
+  },
+  {
+   "begin": "1134.840",
+   "children": [],
+   "end": "1136.520",
+   "id": "f000163",
+   "language": "eng",
+   "lines": [
+    "Uncertainty is keeping the prices low."
+   ]
+  },
+  {
+   "begin": "1136.520",
+   "children": [],
+   "end": "1140.920",
+   "id": "f000164",
+   "language": "eng",
+   "lines": [
+    "I\u2019ve heard that argument from a Fed president from one of the Districts."
+   ]
+  },
+  {
+   "begin": "1140.920",
+   "children": [],
+   "end": "1144.560",
+   "id": "f000165",
+   "language": "eng",
+   "lines": [
+    "So you remove that uncertainty, prices, then, would naturally rise."
+   ]
+  },
+  {
+   "begin": "1144.560",
+   "children": [],
+   "end": "1152.080",
+   "id": "f000166",
+   "language": "eng",
+   "lines": [
+    "So could there be a point, or how\u2014I guess my question is, how big of an impact on monetary policy would removing that uncertainty be?"
+   ]
+  },
+  {
+   "begin": "1152.080",
+   "children": [],
+   "end": "1152.440",
+   "id": "f000167",
+   "language": "eng",
+   "lines": [
+    "Yes."
+   ]
+  },
+  {
+   "begin": "1152.440",
+   "children": [],
+   "end": "1172.960",
+   "id": "f000168",
+   "language": "eng",
+   "lines": [
+    "So I would just say that a\u2014if we were to have a sustained reduction in trade tensions\u2014broad reduction in trade tensions and a resolution of these uncertainties, that would bode well for business sentiment, which is\u2014trade uncertainty\u2019s been weighing on business sentiment, in our judgment, in the judgment of many analysts."
+   ]
+  },
+  {
+   "begin": "1172.960",
+   "children": [],
+   "end": "1175.560",
+   "id": "f000169",
+   "language": "eng",
+   "lines": [
+    "And, ultimately, it could affect activity."
+   ]
+  },
+  {
+   "begin": "1175.560",
+   "children": [],
+   "end": "1184.000",
+   "id": "f000170",
+   "language": "eng",
+   "lines": [
+    "I wouldn\u2019t expect that the effects on activity or confidence would be immediate, or\u2014would there be immediate effects in economic activity."
+   ]
+  },
+  {
+   "begin": "1184.000",
+   "children": [],
+   "end": "1191.520",
+   "id": "f000171",
+   "language": "eng",
+   "lines": [
+    "I think it would take some time after the recent things, but I do think it would be quite positive over time."
+   ]
+  },
+  {
+   "begin": "1191.520",
+   "children": [],
+   "end": "1193.200",
+   "id": "f000172",
+   "language": "eng",
+   "lines": [
+    "You come back to the question of raising rates."
+   ]
+  },
+  {
+   "begin": "1193.200",
+   "children": [],
+   "end": "1194.880",
+   "id": "f000173",
+   "language": "eng",
+   "lines": [
+    "So that\u2019s really about inflation."
+   ]
+  },
+  {
+   "begin": "1194.880",
+   "children": [],
+   "end": "1207.600",
+   "id": "f000174",
+   "language": "eng",
+   "lines": [
+    "And you know, we haven\u2019t yet\u2014we just touched 2 percent core inflation, to pick one measure\u2014just touched it for a few months, and then we\u2019ve fallen back."
+   ]
+  },
+  {
+   "begin": "1207.600",
+   "children": [],
+   "end": "1216.640",
+   "id": "f000175",
+   "language": "eng",
+   "lines": [
+    "So I think we would need to see a really significant move up in inflation that\u2019s persistent before we would consider raising rates to address inflation concerns."
+   ]
+  },
+  {
+   "begin": "1216.640",
+   "children": [],
+   "end": "1224.600",
+   "id": "f000176",
+   "language": "eng",
+   "lines": [
+    "Brendan Greeley, the Financial Times."
+   ]
+  },
+  {
+   "begin": "1224.600",
+   "children": [],
+   "end": "1234.760",
+   "id": "f000177",
+   "language": "eng",
+   "lines": [
+    "The other thing you\u2019ve talked about in this review is the gains that a super high-pressure labor market have, particularly for the communities that you\u2019re talking about."
+   ]
+  },
+  {
+   "begin": "1234.760",
+   "children": [],
+   "end": "1236.880",
+   "id": "f000178",
+   "language": "eng",
+   "lines": [
+    "You mentioned it just now when you were talking."
+   ]
+  },
+  {
+   "begin": "1236.880",
+   "children": [],
+   "end": "1247.480",
+   "id": "f000179",
+   "language": "eng",
+   "lines": [
+    "If that\u2019s something that you\u2019re identifying, and that\u2019s something that the Fed is learning more about this year, why not continue to push those gains, particularly for people who are reentering the labor force?"
+   ]
+  },
+  {
+   "begin": "1247.480",
+   "children": [],
+   "end": "1251.320",
+   "id": "f000180",
+   "language": "eng",
+   "lines": [
+    "Well, I think we\u2019re doing that."
+   ]
+  },
+  {
+   "begin": "1251.320",
+   "children": [],
+   "end": "1258.960",
+   "id": "f000181",
+   "language": "eng",
+   "lines": [
+    "I mean, I think we\u2019re keeping\u2014I think we\u2019ve made very substantial adjustments to policy over the course of this year, if you think about it."
+   ]
+  },
+  {
+   "begin": "1258.960",
+   "children": [],
+   "end": "1264.760",
+   "id": "f000182",
+   "language": "eng",
+   "lines": [
+    "We entered the year expecting some further rate increases, we went to \u201cpatient,\u201d now we\u2019ve done three rate cuts."
+   ]
+  },
+  {
+   "begin": "1264.760",
+   "children": [],
+   "end": "1270.800",
+   "id": "f000183",
+   "language": "eng",
+   "lines": [
+    "It\u2019s a very substantial shift, and the effects of it will be felt over time."
+   ]
+  },
+  {
+   "begin": "1270.800",
+   "children": [],
+   "end": "1280.160",
+   "id": "f000184",
+   "language": "eng",
+   "lines": [
+    "So we feel like those shifts are appropriate to support exactly the outcomes you\u2019re talking about, which are a continuing strong labor market, continued strong job creation."
+   ]
+  },
+  {
+   "begin": "1280.160",
+   "children": [],
+   "end": "1286.520",
+   "id": "f000185",
+   "language": "eng",
+   "lines": [
+    "So if you were to describe the shifts that you\u2019ve made so far, it wasn\u2019t just about trade uncertainty."
+   ]
+  },
+  {
+   "begin": "1286.520",
+   "children": [],
+   "end": "1289.720",
+   "id": "f000186",
+   "language": "eng",
+   "lines": [
+    "It was about, specifically, these kinds of high-pressure labor gains that you\u2019ve talked about."
+   ]
+  },
+  {
+   "begin": "1289.720",
+   "children": [],
+   "end": "1290.160",
+   "id": "f000187",
+   "language": "eng",
+   "lines": [
+    "Well, no."
+   ]
+  },
+  {
+   "begin": "1290.160",
+   "children": [],
+   "end": "1292.200",
+   "id": "f000188",
+   "language": "eng",
+   "lines": [
+    "It was\u2014so we\u2019ve said it was about three things."
+   ]
+  },
+  {
+   "begin": "1292.200",
+   "children": [],
+   "end": "1295.400",
+   "id": "f000189",
+   "language": "eng",
+   "lines": [
+    "It\u2019s been about the slowing global economy."
+   ]
+  },
+  {
+   "begin": "1295.400",
+   "children": [],
+   "end": "1298.760",
+   "id": "f000190",
+   "language": "eng",
+   "lines": [
+    "You have a synchronized slowdown in economic activity around the globe."
+   ]
+  },
+  {
+   "begin": "1298.760",
+   "children": [],
+   "end": "1303.840",
+   "id": "f000191",
+   "language": "eng",
+   "lines": [
+    "It\u2019s been building for just about 18 months now, and that\u2019s having an effect on U.S. activity."
+   ]
+  },
+  {
+   "begin": "1303.840",
+   "children": [],
+   "end": "1308.760",
+   "id": "f000192",
+   "language": "eng",
+   "lines": [
+    "That\u2019s part of the weakness in manufacturing, export, and business investment."
+   ]
+  },
+  {
+   "begin": "1308.760",
+   "children": [],
+   "end": "1315.760",
+   "id": "f000193",
+   "language": "eng",
+   "lines": [
+    "We\u2019ve had trade policy uncertainty, which we think also has been weighing on activity and investment and sentiment."
+   ]
+  },
+  {
+   "begin": "1315.760",
+   "children": [],
+   "end": "1324.960",
+   "id": "f000194",
+   "language": "eng",
+   "lines": [
+    "And we\u2019ve had inflation, which\u2014we\u2019ve called out the risk of inflation running persistently below 2 percent as a risk that we needed to address."
+   ]
+  },
+  {
+   "begin": "1324.960",
+   "children": [],
+   "end": "1327.360",
+   "id": "f000195",
+   "language": "eng",
+   "lines": [
+    "So we\u2019ve been doing it to address all of those things."
+   ]
+  },
+  {
+   "begin": "1327.360",
+   "children": [],
+   "end": "1333.640",
+   "id": "f000196",
+   "language": "eng",
+   "lines": [
+    "I would say, the gains in the labor market have been great to see."
+   ]
+  },
+  {
+   "begin": "1333.640",
+   "children": [],
+   "end": "1342.720",
+   "id": "f000197",
+   "language": "eng",
+   "lines": [
+    "It\u2019s particularly the fact that people at the lower end of wages have been getting most of the benefit of most of the wage gains in the last couple of years."
+   ]
+  },
+  {
+   "begin": "1342.720",
+   "children": [],
+   "end": "1343.400",
+   "id": "f000198",
+   "language": "eng",
+   "lines": [
+    "That\u2019s a great thing."
+   ]
+  },
+  {
+   "begin": "1343.400",
+   "children": [],
+   "end": "1354.520",
+   "id": "f000199",
+   "language": "eng",
+   "lines": [
+    "You know from our Fed Listens events that we\u2019ve been hearing from people who live and work in low- and moderate-income communities that this is the best labor market they\u2019ve seen in their lifetime, things like that."
+   ]
+  },
+  {
+   "begin": "1354.520",
+   "children": [],
+   "end": "1364.600",
+   "id": "f000200",
+   "language": "eng",
+   "lines": [
+    "And, by the way, that there\u2019s also\u2014there\u2019s still so many people who are, you know, still not in the labor market yet, and that\u2014there\u2019s just a lot more good that can be done there."
+   ]
+  },
+  {
+   "begin": "1364.600",
+   "children": [],
+   "end": "1370.400",
+   "id": "f000201",
+   "language": "eng",
+   "lines": [
+    "At the same time, we have to think about the whole economy, and\u2014but, yes, those gains are very positive."
+   ]
+  },
+  {
+   "begin": "1370.400",
+   "children": [],
+   "end": "1371.200",
+   "id": "f000202",
+   "language": "eng",
+   "lines": [
+    "We do call them out."
+   ]
+  },
+  {
+   "begin": "1371.200",
+   "children": [],
+   "end": "1382.520",
+   "id": "f000203",
+   "language": "eng",
+   "lines": [
+    "They are a reason for us to want to extend the expansion, and that\u2019s something we\u2019re committed to doing."
+   ]
+  },
+  {
+   "begin": "1382.520",
+   "children": [],
+   "end": "1394.280",
+   "id": "f000204",
+   "language": "eng",
+   "lines": [
+    "On the Fed\u2019s balance sheet\u2014you all recently resumed purchases of Treasury bills, and I was just wondering, how long do you expect that to continue?"
+   ]
+  },
+  {
+   "begin": "1394.280",
+   "children": [],
+   "end": "1403.360",
+   "id": "f000205",
+   "language": "eng",
+   "lines": [
+    "And, given the fact that, you know, the repo operations\u2014it seems like the Fed is having to increase the amount of liquidity\u2014temporary liquidity that it\u2019s injecting into the system."
+   ]
+  },
+  {
+   "begin": "1403.360",
+   "children": [],
+   "end": "1410.080",
+   "id": "f000206",
+   "language": "eng",
+   "lines": [
+    "You know, do you still feel like it\u2019s just\u2014that there is not enough reserves in the system?"
+   ]
+  },
+  {
+   "begin": "1410.080",
+   "children": [],
+   "end": "1412.360",
+   "id": "f000207",
+   "language": "eng",
+   "lines": [
+    "Do you feel like you have a good sense of what\u2019s going on there?"
+   ]
+  },
+  {
+   "begin": "1412.360",
+   "children": [],
+   "end": "1413.480",
+   "id": "f000208",
+   "language": "eng",
+   "lines": [
+    "Okay."
+   ]
+  },
+  {
+   "begin": "1413.480",
+   "children": [],
+   "end": "1420.640",
+   "id": "f000209",
+   "language": "eng",
+   "lines": [
+    "So, on the \u201chow long,\u201d what we\u2019ve said is that we expect bill purchases to continue at least into the second quarter of next year."
+   ]
+  },
+  {
+   "begin": "1420.640",
+   "children": [],
+   "end": "1428.240",
+   "id": "f000210",
+   "language": "eng",
+   "lines": [
+    "And we\u2019ve said that temporary open market operations we expect to continue, I think, at least until the end of January, I believe."
+   ]
+  },
+  {
+   "begin": "1428.240",
+   "children": [],
+   "end": "1430.000",
+   "id": "f000211",
+   "language": "eng",
+   "lines": [
+    "Yes, through January."
+   ]
+  },
+  {
+   "begin": "1430.000",
+   "children": [],
+   "end": "1438.720",
+   "id": "f000212",
+   "language": "eng",
+   "lines": [
+    "In terms of the causes, so there\u2019s a lot of forensic work going on by us and by market participants and all kinds of analysts."
+   ]
+  },
+  {
+   "begin": "1438.720",
+   "children": [],
+   "end": "1459.840",
+   "id": "f000213",
+   "language": "eng",
+   "lines": [
+    "And, you know, one thing is that we think we need reserves to be back up to the level\u2014the minimum level of reserves that we can have during the various fluctuations that you see with reserves is something like $1.45 trillion or a little higher, and that\u2019s the level in early September."
+   ]
+  },
+  {
+   "begin": "1459.840",
+   "children": [],
+   "end": "1463.080",
+   "id": "f000214",
+   "language": "eng",
+   "lines": [
+    "So we\u2019re going to be adding reserves to get back to that place."
+   ]
+  },
+  {
+   "begin": "1463.080",
+   "children": [],
+   "end": "1463.720",
+   "id": "f000215",
+   "language": "eng",
+   "lines": [
+    "That\u2019s one thing."
+   ]
+  },
+  {
+   "begin": "1463.720",
+   "children": [],
+   "end": "1476.160",
+   "id": "f000216",
+   "language": "eng",
+   "lines": [
+    "There are also\u2014it may be\u2014one thing that was surprising about the episode was that liquidity didn\u2019t seem to flow as one might have expected."
+   ]
+  },
+  {
+   "begin": "1476.160",
+   "children": [],
+   "end": "1490.520",
+   "id": "f000217",
+   "language": "eng",
+   "lines": [
+    "We had surveyed the banks carefully about what was their lowest comfortable level of reserves, and many banks that were well above that level did not take that excess cash and invest it in the repo market at much higher rates."
+   ]
+  },
+  {
+   "begin": "1490.520",
+   "children": [],
+   "end": "1494.400",
+   "id": "f000218",
+   "language": "eng",
+   "lines": [
+    "They just\u2014they didn\u2019t do that, and so the question is why."
+   ]
+  },
+  {
+   "begin": "1494.400",
+   "children": [],
+   "end": "1507.400",
+   "id": "f000219",
+   "language": "eng",
+   "lines": [
+    "And are there things that we can do that would\u2014adjustments that we could make that would allow liquidity to flow more easily in the system without in any way sacrificing safety and soundness or financial stability?"
+   ]
+  },
+  {
+   "begin": "1507.400",
+   "children": [],
+   "end": "1508.880",
+   "id": "f000220",
+   "language": "eng",
+   "lines": [
+    "So we\u2019re looking at those."
+   ]
+  },
+  {
+   "begin": "1508.880",
+   "children": [],
+   "end": "1516.680",
+   "id": "f000221",
+   "language": "eng",
+   "lines": [
+    "Those are not things that can happen that can really address the situation in the short term, but those are a range of things that we\u2019re looking at as well."
+   ]
+  },
+  {
+   "begin": "1516.680",
+   "children": [],
+   "end": "1524.840",
+   "id": "f000222",
+   "language": "eng",
+   "lines": [
+    "Howard Schneider with Reuters, and thanks for the questions."
+   ]
+  },
+  {
+   "begin": "1524.840",
+   "children": [],
+   "end": "1532.480",
+   "id": "f000223",
+   "language": "eng",
+   "lines": [
+    "I wonder if you could give us a little more texture on, sort of, what the strongest or most important case is for feeling that you\u2019ve now taken out adequate insurance."
+   ]
+  },
+  {
+   "begin": "1532.480",
+   "children": [],
+   "end": "1539.240",
+   "id": "f000224",
+   "language": "eng",
+   "lines": [
+    "Is it the response you\u2019re seeing in housing and other parts of the economy, arguably, to the cuts made so far?"
+   ]
+  },
+  {
+   "begin": "1539.240",
+   "children": [],
+   "end": "1546.200",
+   "id": "f000225",
+   "language": "eng",
+   "lines": [
+    "Is it the fact that the risk environment out there globally has shifted a bit and abated a bit?"
+   ]
+  },
+  {
+   "begin": "1546.200",
+   "children": [],
+   "end": "1553.040",
+   "id": "f000226",
+   "language": "eng",
+   "lines": [
+    "Or is it something different, you know, in the financial markets, the fact that the yield curve has righted itself, et cetera?"
+   ]
+  },
+  {
+   "begin": "1553.040",
+   "children": [],
+   "end": "1557.800",
+   "id": "f000227",
+   "language": "eng",
+   "lines": [
+    "Honestly, it\u2019s really the\u2014there isn\u2019t any one factor."
+   ]
+  },
+  {
+   "begin": "1557.800",
+   "children": [],
+   "end": "1567.920",
+   "id": "f000228",
+   "language": "eng",
+   "lines": [
+    "It\u2019s really the whole range of economic data and also what we see as\u2014about our stance of policy, which we believe is the appropriate stance."
+   ]
+  },
+  {
+   "begin": "1567.920",
+   "children": [],
+   "end": "1569.200",
+   "id": "f000229",
+   "language": "eng",
+   "lines": [
+    "It\u2019s really both of those things."
+   ]
+  },
+  {
+   "begin": "1569.200",
+   "children": [],
+   "end": "1574.760",
+   "id": "f000230",
+   "language": "eng",
+   "lines": [
+    "Again, if you look at the performance of the economy through this, the consumer sector has been quite resilient."
+   ]
+  },
+  {
+   "begin": "1574.760",
+   "children": [],
+   "end": "1577.600",
+   "id": "f000231",
+   "language": "eng",
+   "lines": [
+    "Witness today\u2019s GDP report."
+   ]
+  },
+  {
+   "begin": "1577.600",
+   "children": [],
+   "end": "1583.560",
+   "id": "f000232",
+   "language": "eng",
+   "lines": [
+    "And it\u2019s just\u2014again, all the things I went through earlier suggest that that sector continues to be strong."
+   ]
+  },
+  {
+   "begin": "1583.560",
+   "children": [],
+   "end": "1588.720",
+   "id": "f000233",
+   "language": "eng",
+   "lines": [
+    "We know that the manufacturing, investment, trade, export sector has been weak."
+   ]
+  },
+  {
+   "begin": "1588.720",
+   "children": [],
+   "end": "1599.640",
+   "id": "f000234",
+   "language": "eng",
+   "lines": [
+    "That continues, but nonetheless, overall, we\u2019ve got an economy that is showing moderate growth, and we think that today\u2019s setting\u2014we\u2019re now at 1.5 to 1.75 percent."
+   ]
+  },
+  {
+   "begin": "1599.640",
+   "children": [],
+   "end": "1605.760",
+   "id": "f000235",
+   "language": "eng",
+   "lines": [
+    "That is, we believe, an accommodative level and a level that will support that outlook that we have."
+   ]
+  },
+  {
+   "begin": "1605.760",
+   "children": [],
+   "end": "1609.280",
+   "id": "f000236",
+   "language": "eng",
+   "lines": [
+    "But are you concerned\u2014just to follow up, really."
+   ]
+  },
+  {
+   "begin": "1609.280",
+   "children": [],
+   "end": "1620.480",
+   "id": "f000237",
+   "language": "eng",
+   "lines": [
+    "This is kind of a one-legged recovery, that unless you get some impetus from other things\u2014exports, investment\u2014that it\u2019s going to weaken further at some point?"
+   ]
+  },
+  {
+   "begin": "1620.480",
+   "children": [],
+   "end": "1622.720",
+   "id": "f000238",
+   "language": "eng",
+   "lines": [
+    "You know, we don\u2019t see any evidence of that."
+   ]
+  },
+  {
+   "begin": "1622.720",
+   "children": [],
+   "end": "1628.320",
+   "id": "f000239",
+   "language": "eng",
+   "lines": [
+    "What we see is\u2014what we see is that the consumer sector continues strong."
+   ]
+  },
+  {
+   "begin": "1628.320",
+   "children": [],
+   "end": "1630.400",
+   "id": "f000240",
+   "language": "eng",
+   "lines": [
+    "Again, low initial claims."
+   ]
+  },
+  {
+   "begin": "1630.400",
+   "children": [],
+   "end": "1634.160",
+   "id": "f000241",
+   "language": "eng",
+   "lines": [
+    "It\u2019s all\u2014the data we monitor, obviously, is a very broad range of data."
+   ]
+  },
+  {
+   "begin": "1634.160",
+   "children": [],
+   "end": "1644.880",
+   "id": "f000242",
+   "language": "eng",
+   "lines": [
+    "We also see now, I think, more clearly the effects of more accommodative monetary policy on various kinds of consumer activity."
+   ]
+  },
+  {
+   "begin": "1644.880",
+   "children": [],
+   "end": "1649.080",
+   "id": "f000243",
+   "language": "eng",
+   "lines": [
+    "You\u2019re seeing strong durable goods sales."
+   ]
+  },
+  {
+   "begin": "1649.080",
+   "children": [],
+   "end": "1657.120",
+   "id": "f000244",
+   "language": "eng",
+   "lines": [
+    "You\u2019re seeing housing now contributing to growth for the first time in a while\u2014two-tenths, I think, this quarter."
+   ]
+  },
+  {
+   "begin": "1657.120",
+   "children": [],
+   "end": "1665.400",
+   "id": "f000245",
+   "language": "eng",
+   "lines": [
+    "And you\u2019re seeing retail sales\u2014the retail sales number, the PCE number, as I mentioned, in today\u2019s release was 2.9 percent."
+   ]
+  },
+  {
+   "begin": "1665.400",
+   "children": [],
+   "end": "1665.840",
+   "id": "f000246",
+   "language": "eng",
+   "lines": [
+    "So that\u2019s good."
+   ]
+  },
+  {
+   "begin": "1665.840",
+   "children": [],
+   "end": "1678.920",
+   "id": "f000247",
+   "language": "eng",
+   "lines": [
+    "And I think, more broadly, monetary policy is also supporting household spending and home buying by keeping the labor market strong, keeping workers\u2019 incomes rising, and keeping consumer confidence at high levels, where it currently is."
+   ]
+  },
+  {
+   "begin": "1678.920",
+   "children": [],
+   "end": "1688.960",
+   "id": "f000248",
+   "language": "eng",
+   "lines": [
+    "Thank you, Mr. Chairman."
+   ]
+  },
+  {
+   "begin": "1688.960",
+   "children": [],
+   "end": "1692.280",
+   "id": "f000249",
+   "language": "eng",
+   "lines": [
+    "You were just talking about how the lower rates have affected consumer behavior."
+   ]
+  },
+  {
+   "begin": "1692.280",
+   "children": [],
+   "end": "1698.520",
+   "id": "f000250",
+   "language": "eng",
+   "lines": [
+    "Is there a concern that there\u2019s just less potency on the business investment side that you\u2019re, in effect, pushing on a string?"
+   ]
+  },
+  {
+   "begin": "1698.520",
+   "children": [],
+   "end": "1704.640",
+   "id": "f000251",
+   "language": "eng",
+   "lines": [
+    "Well, I think monetary policy works through the channels that we understand."
+   ]
+  },
+  {
+   "begin": "1704.640",
+   "children": [],
+   "end": "1711.600",
+   "id": "f000252",
+   "language": "eng",
+   "lines": [
+    "I think the effects are clear in what we think of as the interest-rate-sensitive sectors, which are the ones\u2014some of the ones that I mentioned."
+   ]
+  },
+  {
+   "begin": "1711.600",
+   "children": [],
+   "end": "1720.280",
+   "id": "f000253",
+   "language": "eng",
+   "lines": [
+    "I think it\u2019s\u2014I think interest rates are a factor in business investment, but I don\u2019t believe they\u2019re the main factor and main driver."
+   ]
+  },
+  {
+   "begin": "1720.280",
+   "children": [],
+   "end": "1731.360",
+   "id": "f000254",
+   "language": "eng",
+   "lines": [
+    "And I think, you know, what one would like to see for\u2014to support greater manufacturing activity, business investment, and exports would be a global recovery."
+   ]
+  },
+  {
+   "begin": "1731.360",
+   "children": [],
+   "end": "1738.680",
+   "id": "f000255",
+   "language": "eng",
+   "lines": [
+    "And, you know, there\u2019s a lot of monetary policy accommodation and some fiscal accommodation, maybe, in the global economy now."
+   ]
+  },
+  {
+   "begin": "1738.680",
+   "children": [],
+   "end": "1741.080",
+   "id": "f000256",
+   "language": "eng",
+   "lines": [
+    "Not here, but perhaps elsewhere."
+   ]
+  },
+  {
+   "begin": "1741.080",
+   "children": [],
+   "end": "1746.560",
+   "id": "f000257",
+   "language": "eng",
+   "lines": [
+    "And that should turn\u2014that should support growth in the global economy."
+   ]
+  },
+  {
+   "begin": "1746.560",
+   "children": [],
+   "end": "1753.200",
+   "id": "f000258",
+   "language": "eng",
+   "lines": [
+    "And, again, resolution of our trade issues would contribute to that over time as well."
+   ]
+  },
+  {
+   "begin": "1753.200",
+   "children": [],
+   "end": "1759.680",
+   "id": "f000259",
+   "language": "eng",
+   "lines": [
+    "Thank you."
+   ]
+  },
+  {
+   "begin": "1759.680",
+   "children": [],
+   "end": "1761.600",
+   "id": "f000260",
+   "language": "eng",
+   "lines": [
+    "Chris Rugaber at Associated Press."
+   ]
+  },
+  {
+   "begin": "1761.600",
+   "children": [],
+   "end": "1771.800",
+   "id": "f000261",
+   "language": "eng",
+   "lines": [
+    "You mentioned Fed Listens a couple of times, and what you\u2019ve heard from people there about how it\u2019s benefited the disadvantaged or lower-income workers\u2014the hot job market we have."
+   ]
+  },
+  {
+   "begin": "1771.800",
+   "children": [],
+   "end": "1782.840",
+   "id": "f000262",
+   "language": "eng",
+   "lines": [
+    "Has the Fed thought about institutionalizing something like Fed Listens and maybe taking in some of this input from people that you don\u2019t always hear from\u2014things like the Beige Book focus on businesses?"
+   ]
+  },
+  {
+   "begin": "1782.840",
+   "children": [],
+   "end": "1787.480",
+   "id": "f000263",
+   "language": "eng",
+   "lines": [
+    "Has there been thought of bringing in folks, say, from community groups more regularly?"
+   ]
+  },
+  {
+   "begin": "1787.480",
+   "children": [],
+   "end": "1789.440",
+   "id": "f000264",
+   "language": "eng",
+   "lines": [
+    "Thank you."
+   ]
+  },
+  {
+   "begin": "1789.440",
+   "children": [],
+   "end": "1795.360",
+   "id": "f000265",
+   "language": "eng",
+   "lines": [
+    "We think\u2014we think that Fed Listens has been a great success for us, and I\u2019m sure we will repeat it."
+   ]
+  },
+  {
+   "begin": "1795.360",
+   "children": [],
+   "end": "1803.280",
+   "id": "f000266",
+   "language": "eng",
+   "lines": [
+    "In fact, I would imagine that this entire monetary policy review will become institutionalized and be done every few years."
+   ]
+  },
+  {
+   "begin": "1803.280",
+   "children": [],
+   "end": "1814.000",
+   "id": "f000267",
+   "language": "eng",
+   "lines": [
+    "I would say this:  In the Beige Book, we talk to educational institutions, health-care institutions, community groups, labor groups\u2014it\u2019s not just businesses."
+   ]
+  },
+  {
+   "begin": "1814.000",
+   "children": [],
+   "end": "1818.280",
+   "id": "f000268",
+   "language": "eng",
+   "lines": [
+    "And, by the way, all of those groups are also represented on the boards of our regional banks."
+   ]
+  },
+  {
+   "begin": "1818.280",
+   "children": [],
+   "end": "1824.480",
+   "id": "f000269",
+   "language": "eng",
+   "lines": [
+    "We also meet quite regularly at the Board with representatives of low- and moderate-income communities."
+   ]
+  },
+  {
+   "begin": "1824.480",
+   "children": [],
+   "end": "1830.400",
+   "id": "f000270",
+   "language": "eng",
+   "lines": [
+    "And so we\u2019re\u2014we\u2019re very conscious of\u2014you know, that we represent all Americans, and we need to hear all of their perspectives."
+   ]
+  },
+  {
+   "begin": "1830.400",
+   "children": [],
+   "end": "1838.280",
+   "id": "f000271",
+   "language": "eng",
+   "lines": [
+    "That\u2019s why we\u2014you know, we talk about how low the unemployment rate is, the aggregate unemployment, but we also talk about groups that haven\u2019t experienced that yet."
+   ]
+  },
+  {
+   "begin": "1838.280",
+   "children": [],
+   "end": "1844.240",
+   "id": "f000272",
+   "language": "eng",
+   "lines": [
+    "And so we\u2019re\u2014we try to remind ourselves that we serve everybody."
+   ]
+  },
+  {
+   "begin": "1844.240",
+   "children": [],
+   "end": "1850.640",
+   "id": "f000273",
+   "language": "eng",
+   "lines": [
+    "Steve Matthews with Bloomberg."
+   ]
+  },
+  {
+   "begin": "1850.640",
+   "children": [],
+   "end": "1855.360",
+   "id": "f000274",
+   "language": "eng",
+   "lines": [
+    "You mentioned housing and today\u2019s GDP data."
+   ]
+  },
+  {
+   "begin": "1855.360",
+   "children": [],
+   "end": "1866.760",
+   "id": "f000275",
+   "language": "eng",
+   "lines": [
+    "When you look at that, do you believe that you have achieved a soft landing or are achieving a soft landing, in the sense that we\u2019re moving to trend growth for the rest of the year and next year?"
+   ]
+  },
+  {
+   "begin": "1866.760",
+   "children": [],
+   "end": "1874.400",
+   "id": "f000276",
+   "language": "eng",
+   "lines": [
+    "So that is\u2014our outlook overall is for moderate growth of around 2 percent, which is pretty close to trend."
+   ]
+  },
+  {
+   "begin": "1874.400",
+   "children": [],
+   "end": "1877.040",
+   "id": "f000277",
+   "language": "eng",
+   "lines": [
+    "That\u2019s our outlook:  could be better, could be worse."
+   ]
+  },
+  {
+   "begin": "1877.040",
+   "children": [],
+   "end": "1880.040",
+   "id": "f000278",
+   "language": "eng",
+   "lines": [
+    "You know, it\u2019s\u2014you never say you\u2019ve achieved it."
+   ]
+  },
+  {
+   "begin": "1880.040",
+   "children": [],
+   "end": "1882.080",
+   "id": "f000279",
+   "language": "eng",
+   "lines": [
+    "But that\u2019s our outlook."
+   ]
+  },
+  {
+   "begin": "1882.080",
+   "children": [],
+   "end": "1889.480",
+   "id": "f000280",
+   "language": "eng",
+   "lines": [
+    "And we feel like our current stance of policy is appropriate as long as that remains broadly our outlook."
+   ]
+  },
+  {
+   "begin": "1889.480",
+   "children": [],
+   "end": "1896.640",
+   "id": "f000281",
+   "language": "eng",
+   "lines": [
+    "Donna Borak with CNN."
+   ]
+  },
+  {
+   "begin": "1896.640",
+   "children": [],
+   "end": "1917.480",
+   "id": "f000282",
+   "language": "eng",
+   "lines": [
+    "Chair Powell, setting aside market expectations for today\u2019s rate cut\u2014obviously, 97 percent sort of expected that this would happen today\u2014can you tell us a little bit more about the rationale behind moving at this particular meeting as opposed to waiting six weeks and cutting in December, and if there was any discussion about that around the table?"
+   ]
+  },
+  {
+   "begin": "1917.480",
+   "children": [],
+   "end": "1918.000",
+   "id": "f000283",
+   "language": "eng",
+   "lines": [
+    "Thanks."
+   ]
+  },
+  {
+   "begin": "1918.000",
+   "children": [],
+   "end": "1918.680",
+   "id": "f000284",
+   "language": "eng",
+   "lines": [
+    "Yes."
+   ]
+  },
+  {
+   "begin": "1918.680",
+   "children": [],
+   "end": "1923.960",
+   "id": "f000285",
+   "language": "eng",
+   "lines": [
+    "I think this seems to be the right movement."
+   ]
+  },
+  {
+   "begin": "1923.960",
+   "children": [],
+   "end": "1927.720",
+   "id": "f000286",
+   "language": "eng",
+   "lines": [
+    "You can see that we had our usual range of perspectives, range of views."
+   ]
+  },
+  {
+   "begin": "1927.720",
+   "children": [],
+   "end": "1930.400",
+   "id": "f000287",
+   "language": "eng",
+   "lines": [
+    "But, in the end, we had a strong vote in favor of this action."
+   ]
+  },
+  {
+   "begin": "1930.400",
+   "children": [],
+   "end": "1934.000",
+   "id": "f000288",
+   "language": "eng",
+   "lines": [
+    "I strongly believe it\u2019s the right action."
+   ]
+  },
+  {
+   "begin": "1934.000",
+   "children": [],
+   "end": "1942.680",
+   "id": "f000289",
+   "language": "eng",
+   "lines": [
+    "I strongly believe that the actions we\u2019ve taken over the course of this year have been the right things to do for this economy and are supporting economic growth and will do so in the future."
+   ]
+  },
+  {
+   "begin": "1942.680",
+   "children": [],
+   "end": "1945.080",
+   "id": "f000290",
+   "language": "eng",
+   "lines": [
+    "So\u2014 GREG ROBB."
+   ]
+  },
+  {
+   "begin": "1945.080",
+   "children": [],
+   "end": "1951.720",
+   "id": "f000291",
+   "language": "eng",
+   "lines": [
+    "Thank you."
+   ]
+  },
+  {
+   "begin": "1951.720",
+   "children": [],
+   "end": "1953.520",
+   "id": "f000292",
+   "language": "eng",
+   "lines": [
+    "Greg Robb from MarketWatch."
+   ]
+  },
+  {
+   "begin": "1953.520",
+   "children": [],
+   "end": "1965.240",
+   "id": "f000293",
+   "language": "eng",
+   "lines": [
+    "Chairman Powell, it seems that the differences all across the country\u2014that different regions are reacting differently to the China trade, and some regions are much weaker than others."
+   ]
+  },
+  {
+   "begin": "1965.240",
+   "children": [],
+   "end": "1970.040",
+   "id": "f000294",
+   "language": "eng",
+   "lines": [
+    "There\u2019s this urban versus rural divide, the coasts versus the middle of the country."
+   ]
+  },
+  {
+   "begin": "1970.040",
+   "children": [],
+   "end": "1973.240",
+   "id": "f000295",
+   "language": "eng",
+   "lines": [
+    "How does that factor into your policy decisions?"
+   ]
+  },
+  {
+   "begin": "1973.240",
+   "children": [],
+   "end": "1978.200",
+   "id": "f000296",
+   "language": "eng",
+   "lines": [
+    "You know, it\u2019s\u2014monetary policy is famously a blunt instrument."
+   ]
+  },
+  {
+   "begin": "1978.200",
+   "children": [],
+   "end": "1982.720",
+   "id": "f000297",
+   "language": "eng",
+   "lines": [
+    "So we can\u2019t\u2014obviously, we can\u2019t raise interest rates some place and lower them other places."
+   ]
+  },
+  {
+   "begin": "1982.720",
+   "children": [],
+   "end": "1984.800",
+   "id": "f000298",
+   "language": "eng",
+   "lines": [
+    "But we\u2019re very conscious."
+   ]
+  },
+  {
+   "begin": "1984.800",
+   "children": [],
+   "end": "1994.320",
+   "id": "f000299",
+   "language": "eng",
+   "lines": [
+    "The first thing to know is to understand that, that\u2014and we\u2019ve called that out, as you, I\u2019m sure, know, in one of our recent Monetary Policy Reports to Congress."
+   ]
+  },
+  {
+   "begin": "1994.320",
+   "children": [],
+   "end": "2001.880",
+   "id": "f000300",
+   "language": "eng",
+   "lines": [
+    "The sort of rural\u2013urban disparities in\u2014you know, in employment, in growth, in all kinds of things, in health outcomes."
+   ]
+  },
+  {
+   "begin": "2001.880",
+   "children": [],
+   "end": "2006.920",
+   "id": "f000301",
+   "language": "eng",
+   "lines": [
+    "You know, it\u2019s a big and growing difference\u2014set of differences."
+   ]
+  },
+  {
+   "begin": "2006.920",
+   "children": [],
+   "end": "2029.080",
+   "id": "f000302",
+   "language": "eng",
+   "lines": [
+    "We don\u2019t really have, you know, the tools to address that, but we call things out that are important to our economy that we may not be\u2014that we might have\u2014may not have the right tools to best address them, but we call them out because, you know, we\u2019re spending all of our time with the economy, and those are issues that maybe have to be addressed by legislatures and, you know, by\u2014at the national level and at the state level."
+   ]
+  },
+  {
+   "begin": "2029.080",
+   "children": [],
+   "end": "2032.040",
+   "id": "f000303",
+   "language": "eng",
+   "lines": [
+    "Oh, could I follow?"
+   ]
+  },
+  {
+   "begin": "2032.040",
+   "children": [],
+   "end": "2033.280",
+   "id": "f000304",
+   "language": "eng",
+   "lines": [
+    "Sorry, could I follow?"
+   ]
+  },
+  {
+   "begin": "2033.280",
+   "children": [],
+   "end": "2034.480",
+   "id": "f000305",
+   "language": "eng",
+   "lines": [
+    "Could\u2014sorry."
+   ]
+  },
+  {
+   "begin": "2034.480",
+   "children": [],
+   "end": "2042.280",
+   "id": "f000306",
+   "language": "eng",
+   "lines": [
+    "Just, so\u2014so are you asking Congress to do something now, or will you ask them to do something down the road?"
+   ]
+  },
+  {
+   "begin": "2042.280",
+   "children": [],
+   "end": "2046.120",
+   "id": "f000307",
+   "language": "eng",
+   "lines": [
+    "I\u2019m not asking Congress to do anything right now."
+   ]
+  },
+  {
+   "begin": "2046.120",
+   "children": [],
+   "end": "2050.880",
+   "id": "f000308",
+   "language": "eng",
+   "lines": [
+    "I sometimes have noted that it would be appropriate."
+   ]
+  },
+  {
+   "begin": "2050.880",
+   "children": [],
+   "end": "2059.080",
+   "id": "f000309",
+   "language": "eng",
+   "lines": [
+    "Let me put it this way:  We do what we do, which is, we\u2019re assigned a job, which is maximum employment and stable prices."
+   ]
+  },
+  {
+   "begin": "2059.080",
+   "children": [],
+   "end": "2060.400",
+   "id": "f000310",
+   "language": "eng",
+   "lines": [
+    "We do financial stability."
+   ]
+  },
+  {
+   "begin": "2060.400",
+   "children": [],
+   "end": "2062.080",
+   "id": "f000311",
+   "language": "eng",
+   "lines": [
+    "We do bank regulation."
+   ]
+  },
+  {
+   "begin": "2062.080",
+   "children": [],
+   "end": "2075.360",
+   "id": "f000312",
+   "language": "eng",
+   "lines": [
+    "The U.S. economy faces significant longer-term challenges around potential growth, around labor force participation, around disparities of income and wealth, around all kinds of things."
+   ]
+  },
+  {
+   "begin": "2075.360",
+   "children": [],
+   "end": "2079.040",
+   "id": "f000313",
+   "language": "eng",
+   "lines": [
+    "And those are issues for Congress, and they\u2019re not issues for us."
+   ]
+  },
+  {
+   "begin": "2079.040",
+   "children": [],
+   "end": "2088.000",
+   "id": "f000314",
+   "language": "eng",
+   "lines": [
+    "But if you really want the U.S. economy to be all it can be and raise the potential growth rate of the United States, you need\u2014you need proper monetary policy."
+   ]
+  },
+  {
+   "begin": "2088.000",
+   "children": [],
+   "end": "2089.440",
+   "id": "f000315",
+   "language": "eng",
+   "lines": [
+    "But, really, it isn\u2019t monetary policy."
+   ]
+  },
+  {
+   "begin": "2089.440",
+   "children": [],
+   "end": "2093.720",
+   "id": "f000316",
+   "language": "eng",
+   "lines": [
+    "Really, it\u2019s fiscal policy that supports, you know, inclusive growth."
+   ]
+  },
+  {
+   "begin": "2093.720",
+   "children": [],
+   "end": "2103.280",
+   "id": "f000317",
+   "language": "eng",
+   "lines": [
+    "Don Lee with the L.A. Times."
+   ]
+  },
+  {
+   "begin": "2103.280",
+   "children": [],
+   "end": "2118.160",
+   "id": "f000318",
+   "language": "eng",
+   "lines": [
+    "I think you said, Chair Powell, that the primary positive development in risks to the outlook was on trade and, specifically, the prospects for a phase-one agreement with China."
+   ]
+  },
+  {
+   "begin": "2118.160",
+   "children": [],
+   "end": "2136.760",
+   "id": "f000319",
+   "language": "eng",
+   "lines": [
+    "But, given the ups and downs of the trade dispute and that, you know, several truces and tentative deals have fallen through, are you concerned about developing monetary policy guidance, if you will, that\u2019s dependent a good part on the wins of the trade negotiations?"
+   ]
+  },
+  {
+   "begin": "2136.760",
+   "children": [],
+   "end": "2140.440",
+   "id": "f000320",
+   "language": "eng",
+   "lines": [
+    "Yes, I know, that\u2019s\u2014I wouldn\u2019t\u2014that\u2019s not how I would characterize it."
+   ]
+  },
+  {
+   "begin": "2140.440",
+   "children": [],
+   "end": "2156.320",
+   "id": "f000321",
+   "language": "eng",
+   "lines": [
+    "I would just\u2014I noted that it may be that there\u2019s been progress there toward\u2014away from bad outcomes and confrontational outcomes, and it seems like there\u2019s the makings of a possible settlement there."
+   ]
+  },
+  {
+   "begin": "2156.320",
+   "children": [],
+   "end": "2160.000",
+   "id": "f000322",
+   "language": "eng",
+   "lines": [
+    "I didn\u2019t say we\u2019re baking that in or anything, but I\u2019m just noting that that\u2019s the case."
+   ]
+  },
+  {
+   "begin": "2160.000",
+   "children": [],
+   "end": "2166.840",
+   "id": "f000323",
+   "language": "eng",
+   "lines": [
+    "As with Brexit\u2014it\u2019s still quite uncertain what will be the result of the election and what the ultimate result will be."
+   ]
+  },
+  {
+   "begin": "2166.840",
+   "children": [],
+   "end": "2180.200",
+   "id": "f000324",
+   "language": "eng",
+   "lines": [
+    "But I would say that the tail risk of a nonnegotiated no-deal Brexit seems to have decreased, just as I would say that the situation in our trade negotiations with China seems to have taken a step closer to resolution."
+   ]
+  },
+  {
+   "begin": "2180.200",
+   "children": [],
+   "end": "2180.880",
+   "id": "f000325",
+   "language": "eng",
+   "lines": [
+    "That\u2019s all I\u2019m saying."
+   ]
+  },
+  {
+   "begin": "2180.880",
+   "children": [],
+   "end": "2197.320",
+   "id": "f000326",
+   "language": "eng",
+   "lines": [
+    "If I could follow up, if the phase-one agreement, then, doesn\u2019t work out, then would we be back at, you know, making, you know, monetary policy that\u2014 CHAIR POWELL."
+   ]
+  },
+  {
+   "begin": "2197.320",
+   "children": [],
+   "end": "2201.240",
+   "id": "f000327",
+   "language": "eng",
+   "lines": [
+    "That\u2019s one factor among many, many factors that factor into our assessment of the outlook."
+   ]
+  },
+  {
+   "begin": "2201.240",
+   "children": [],
+   "end": "2222.120",
+   "id": "f000328",
+   "language": "eng",
+   "lines": [
+    "And if we see\u2014if we have\u2014if we\u2014if things happen that cause us to materially reassess the outlook, change our assessment of the outlook in a material way, then we would act accordingly."
+   ]
+  },
+  {
+   "begin": "2222.120",
+   "children": [],
+   "end": "2224.320",
+   "id": "f000329",
+   "language": "eng",
+   "lines": [
+    "Virginie Montet with the Agence France-Presse."
+   ]
+  },
+  {
+   "begin": "2224.320",
+   "children": [],
+   "end": "2225.520",
+   "id": "f000330",
+   "language": "eng",
+   "lines": [
+    "Thank you."
+   ]
+  },
+  {
+   "begin": "2225.520",
+   "children": [],
+   "end": "2237.400",
+   "id": "f000331",
+   "language": "eng",
+   "lines": [
+    "The Fed has pointed out many times in the past the rising inequality over those past decades and how that could be a factor behind sluggish growth."
+   ]
+  },
+  {
+   "begin": "2237.400",
+   "children": [],
+   "end": "2253.760",
+   "id": "f000332",
+   "language": "eng",
+   "lines": [
+    "In light of the recent outcome of the strike at General Motors, do you see the union having a role to play, helping to raise lower and middle incomes and promoting more shared growth in the long run?"
+   ]
+  },
+  {
+   "begin": "2253.760",
+   "children": [],
+   "end": "2260.440",
+   "id": "f000333",
+   "language": "eng",
+   "lines": [
+    "So, not for us to say what the appropriate labor arrangements will be."
+   ]
+  },
+  {
+   "begin": "2260.440",
+   "children": [],
+   "end": "2273.800",
+   "id": "f000334",
+   "language": "eng",
+   "lines": [
+    "I will just say, on the General Motors strike, it\u2019s\u2014it\u2019s likely to have taken away a couple of tenths of growth this quarter."
+   ]
+  },
+  {
+   "begin": "2273.800",
+   "children": [],
+   "end": "2276.760",
+   "id": "f000335",
+   "language": "eng",
+   "lines": [
+    "That\u2019s likely to come back, maybe, over the first half of next year."
+   ]
+  },
+  {
+   "begin": "2276.760",
+   "children": [],
+   "end": "2279.360",
+   "id": "f000336",
+   "language": "eng",
+   "lines": [
+    "And I think it\u2019s good to see it settled."
+   ]
+  },
+  {
+   "begin": "2279.360",
+   "children": [],
+   "end": "2283.160",
+   "id": "f000337",
+   "language": "eng",
+   "lines": [
+    "But I\u2019m not going to comment on what the appropriate labor arrangements are."
+   ]
+  },
+  {
+   "begin": "2283.160",
+   "children": [],
+   "end": "2285.520",
+   "id": "f000338",
+   "language": "eng",
+   "lines": [
+    "That\u2019s a little bit far afield from our task here."
+   ]
+  },
+  {
+   "begin": "2285.520",
+   "children": [],
+   "end": "2286.080",
+   "id": "f000339",
+   "language": "eng",
+   "lines": [
+    "Thank you."
+   ]
+  },
+  {
+   "begin": "2286.080",
+   "children": [],
+   "end": "2291.360",
+   "id": "f000340",
+   "language": "eng",
+   "lines": [
+    "Thank you, Chairman."
+   ]
+  },
+  {
+   "begin": "2291.360",
+   "children": [],
+   "end": "2293.800",
+   "id": "f000341",
+   "language": "eng",
+   "lines": [
+    "Paul Kiernan from Dow Jones Newswires."
+   ]
+  },
+  {
+   "begin": "2293.800",
+   "children": [],
+   "end": "2297.080",
+   "id": "f000342",
+   "language": "eng",
+   "lines": [
+    "[Inaudible] Oh, I was wondering what that was."
+   ]
+  },
+  {
+   "begin": "2297.080",
+   "children": [],
+   "end": "2299.560",
+   "id": "f000343",
+   "language": "eng",
+   "lines": [
+    "Paul Kiernan from Dow Jones Newswires."
+   ]
+  },
+  {
+   "begin": "2299.560",
+   "children": [],
+   "end": "2301.960",
+   "id": "f000344",
+   "language": "eng",
+   "lines": [
+    "Thank you\u2014thank you, Chairman."
+   ]
+  },
+  {
+   "begin": "2301.960",
+   "children": [],
+   "end": "2312.920",
+   "id": "f000345",
+   "language": "eng",
+   "lines": [
+    "Wondering if you would categorize the current stance of monetary policy as accommodative, or if it\u2019s just, you know, that neutral was lower than we thought at this time last year."
+   ]
+  },
+  {
+   "begin": "2312.920",
+   "children": [],
+   "end": "2323.680",
+   "id": "f000346",
+   "language": "eng",
+   "lines": [
+    "Secondly, you know, we\u2019re now two years removed from the Tax Cuts and Jobs Act, and the economy is growing at about the same pace it was before\u20142 percent."
+   ]
+  },
+  {
+   "begin": "2323.680",
+   "children": [],
+   "end": "2340.520",
+   "id": "f000347",
+   "language": "eng",
+   "lines": [
+    "So, given your mention of fiscal policy and the role it plays in supporting long-term growth, you know, is it fair to say that the Tax Cuts and Jobs Act worked the way it was supposed to?"
+   ]
+  },
+  {
+   "begin": "2340.520",
+   "children": [],
+   "end": "2340.960",
+   "id": "f000348",
+   "language": "eng",
+   "lines": [
+    "Thanks."
+   ]
+  },
+  {
+   "begin": "2340.960",
+   "children": [],
+   "end": "2344.280",
+   "id": "f000349",
+   "language": "eng",
+   "lines": [
+    "Sorry, say again what your first question was?"
+   ]
+  },
+  {
+   "begin": "2344.280",
+   "children": [],
+   "end": "2349.280",
+   "id": "f000350",
+   "language": "eng",
+   "lines": [
+    "I wrote it down, I can\u2019t\u2014  PAUL KIERNAN."
+   ]
+  },
+  {
+   "begin": "2349.280",
+   "children": [],
+   "end": "2351.560",
+   "id": "f000351",
+   "language": "eng",
+   "lines": [
+    "Sorry\u2014if policy is accommodative right now."
+   ]
+  },
+  {
+   "begin": "2351.560",
+   "children": [],
+   "end": "2353.000",
+   "id": "f000352",
+   "language": "eng",
+   "lines": [
+    "Ah, yes."
+   ]
+  },
+  {
+   "begin": "2353.000",
+   "children": [],
+   "end": "2353.240",
+   "id": "f000353",
+   "language": "eng",
+   "lines": [
+    "Okay."
+   ]
+  },
+  {
+   "begin": "2353.240",
+   "children": [],
+   "end": "2359.640",
+   "id": "f000354",
+   "language": "eng",
+   "lines": [
+    "So if you look at where the federal funds rate is trading, it should be in the middle of, or maybe the lower half of, the range of 150 to 175."
+   ]
+  },
+  {
+   "begin": "2359.640",
+   "children": [],
+   "end": "2364.120",
+   "id": "f000355",
+   "language": "eng",
+   "lines": [
+    "So that means the real rate is probably modestly below zero."
+   ]
+  },
+  {
+   "begin": "2364.120",
+   "children": [],
+   "end": "2368.960",
+   "id": "f000356",
+   "language": "eng",
+   "lines": [
+    "I think my own sense would be that that\u2019s somewhat accommodative policy."
+   ]
+  },
+  {
+   "begin": "2368.960",
+   "children": [],
+   "end": "2384.440",
+   "id": "f000357",
+   "language": "eng",
+   "lines": [
+    "I would say, though, that there\u2019s a range of plausible estimates of what the neutral rate of interest is, and I think many of those who make such estimates have moved their estimate down over the course of many years, and that process continues."
+   ]
+  },
+  {
+   "begin": "2384.440",
+   "children": [],
+   "end": "2396.440",
+   "id": "f000358",
+   "language": "eng",
+   "lines": [
+    "But, nonetheless, that seems to me to be very likely to be an accommodative stance of policy, and an appropriate stance, given the situation we\u2019re in with continuing downside risks and\u2014that I mentioned."
+   ]
+  },
+  {
+   "begin": "2396.440",
+   "children": [],
+   "end": "2398.040",
+   "id": "f000359",
+   "language": "eng",
+   "lines": [
+    "So\u2014 JEAN YUNG."
+   ]
+  },
+  {
+   "begin": "2398.040",
+   "children": [],
+   "end": "2401.000",
+   "id": "f000360",
+   "language": "eng",
+   "lines": [
+    "Hi."
+   ]
+  },
+  {
+   "begin": "2401.000",
+   "children": [],
+   "end": "2402.760",
+   "id": "f000361",
+   "language": "eng",
+   "lines": [
+    "Jean Yung from Market News."
+   ]
+  },
+  {
+   "begin": "2402.760",
+   "children": [],
+   "end": "2406.160",
+   "id": "f000362",
+   "language": "eng",
+   "lines": [
+    "I wanted to ask about financial stability risks."
+   ]
+  },
+  {
+   "begin": "2406.160",
+   "children": [],
+   "end": "2414.560",
+   "id": "f000363",
+   "language": "eng",
+   "lines": [
+    "Recently, the IMF and some other global policymakers have been expressing concerns over the high level of risky corporate debt."
+   ]
+  },
+  {
+   "begin": "2414.560",
+   "children": [],
+   "end": "2423.640",
+   "id": "f000364",
+   "language": "eng",
+   "lines": [
+    "So as rates get lower in the U.S. and around the world, are you more worried about financial stability risks and reach-for-yield?"
+   ]
+  },
+  {
+   "begin": "2423.640",
+   "children": [],
+   "end": "2428.520",
+   "id": "f000365",
+   "language": "eng",
+   "lines": [
+    "So we monitor financial stability risks very carefully all of the time."
+   ]
+  },
+  {
+   "begin": "2428.520",
+   "children": [],
+   "end": "2431.640",
+   "id": "f000366",
+   "language": "eng",
+   "lines": [
+    "It\u2019s what we do since the financial crisis, as I\u2019ve mentioned before."
+   ]
+  },
+  {
+   "begin": "2431.640",
+   "children": [],
+   "end": "2434.120",
+   "id": "f000367",
+   "language": "eng",
+   "lines": [
+    "Currently, we don\u2019t see large imbalances."
+   ]
+  },
+  {
+   "begin": "2434.120",
+   "children": [],
+   "end": "2443.400",
+   "id": "f000368",
+   "language": "eng",
+   "lines": [
+    "This long expansion is notable for the lack of large financial imbalances like the ones we\u2019ve seen certainly before the crisis happened."
+   ]
+  },
+  {
+   "begin": "2443.400",
+   "children": [],
+   "end": "2447.520",
+   "id": "f000369",
+   "language": "eng",
+   "lines": [
+    "So we have a four-part framework, I\u2019ll quickly mention."
+   ]
+  },
+  {
+   "begin": "2447.520",
+   "children": [],
+   "end": "2451.040",
+   "id": "f000370",
+   "language": "eng",
+   "lines": [
+    "The first is leverage in the financial system, which is low by historical standards."
+   ]
+  },
+  {
+   "begin": "2451.040",
+   "children": [],
+   "end": "2462.680",
+   "id": "f000371",
+   "language": "eng",
+   "lines": [
+    "The second is funding risk, which is the risk of runnable funding, and that risk is also quite low for banks but also for, you know, the nonbanking financial sector."
+   ]
+  },
+  {
+   "begin": "2462.680",
+   "children": [],
+   "end": "2468.800",
+   "id": "f000372",
+   "language": "eng",
+   "lines": [
+    "If you look at asset prices, we see some high asset prices but not broadly across a range."
+   ]
+  },
+  {
+   "begin": "2468.800",
+   "children": [],
+   "end": "2472.840",
+   "id": "f000373",
+   "language": "eng",
+   "lines": [
+    "We don\u2019t see bubbles and that kind of thing."
+   ]
+  },
+  {
+   "begin": "2472.840",
+   "children": [],
+   "end": "2478.480",
+   "id": "f000374",
+   "language": "eng",
+   "lines": [
+    "And that leaves the fourth, which is leverage in the nonfinancial sector, and that\u2019s households and businesses."
+   ]
+  },
+  {
+   "begin": "2478.480",
+   "children": [],
+   "end": "2480.640",
+   "id": "f000375",
+   "language": "eng",
+   "lines": [
+    "So with households, again, we don\u2019t see leverage."
+   ]
+  },
+  {
+   "begin": "2480.640",
+   "children": [],
+   "end": "2485.240",
+   "id": "f000376",
+   "language": "eng",
+   "lines": [
+    "We see them actually getting in very good shape financially in the aggregate."
+   ]
+  },
+  {
+   "begin": "2485.240",
+   "children": [],
+   "end": "2491.360",
+   "id": "f000377",
+   "language": "eng",
+   "lines": [
+    "Obviously, plenty of households are not in great shape financially, but in the aggregate, the household sector is in a very good place."
+   ]
+  },
+  {
+   "begin": "2491.360",
+   "children": [],
+   "end": "2494.520",
+   "id": "f000378",
+   "language": "eng",
+   "lines": [
+    "That leaves businesses, which is where the issue has been."
+   ]
+  },
+  {
+   "begin": "2494.520",
+   "children": [],
+   "end": "2500.760",
+   "id": "f000379",
+   "language": "eng",
+   "lines": [
+    "Leverage among corporations and other forms of business, private businesses, is historically high."
+   ]
+  },
+  {
+   "begin": "2500.760",
+   "children": [],
+   "end": "2504.040",
+   "id": "f000380",
+   "language": "eng",
+   "lines": [
+    "We\u2019ve been monitoring it carefully and taking appropriate steps."
+   ]
+  },
+  {
+   "begin": "2504.040",
+   "children": [],
+   "end": "2517.160",
+   "id": "f000381",
+   "language": "eng",
+   "lines": [
+    "So that\u2019s what I would say, but it\u2019s\u2014corporate debt is one part of a larger part of our framework, and it is something that we\u2019re paying quite a bit of attention to."
+   ]
+  },
+  {
+   "begin": "2517.160",
+   "children": [],
+   "end": "2525.640",
+   "id": "f000382",
+   "language": "eng",
+   "lines": [
+    "And it\u2019s been part of the last couple of Shared National Credit exams, and we\u2019ve been monitoring it carefully and taking appropriate action."
+   ]
+  },
+  {
+   "begin": "2525.640",
+   "children": [],
+   "end": "2530.440",
+   "id": "f000383",
+   "language": "eng",
+   "lines": [
+    "Hi."
+   ]
+  },
+  {
+   "begin": "2530.440",
+   "children": [],
+   "end": "2533.680",
+   "id": "f000384",
+   "language": "eng",
+   "lines": [
+    "Nancy Marshall-Genzer with Marketplace."
+   ]
+  },
+  {
+   "begin": "2533.680",
+   "children": [],
+   "end": "2543.160",
+   "id": "f000385",
+   "language": "eng",
+   "lines": [
+    "Have the problems in the repo market led you to look into whether the liquidity and capital requirements for banks are too high?"
+   ]
+  },
+  {
+   "begin": "2543.160",
+   "children": [],
+   "end": "2546.840",
+   "id": "f000386",
+   "language": "eng",
+   "lines": [
+    "Is that something that the Fed might review?"
+   ]
+  },
+  {
+   "begin": "2546.840",
+   "children": [],
+   "end": "2558.680",
+   "id": "f000387",
+   "language": "eng",
+   "lines": [
+    "So we\u2019re\u2014I think, again, I think the most important basic thing is to get the level of reserves back up so that\u2014reserves move up and down with some volatility."
+   ]
+  },
+  {
+   "begin": "2558.680",
+   "children": [],
+   "end": "2567.320",
+   "id": "f000388",
+   "language": "eng",
+   "lines": [
+    "We don\u2019t want them to move below the level they were at in the beginning of September, which is, again, between $1.45 and $1.5 trillion."
+   ]
+  },
+  {
+   "begin": "2567.320",
+   "children": [],
+   "end": "2569.480",
+   "id": "f000389",
+   "language": "eng",
+   "lines": [
+    "That\u2019s the main thing, that\u2019s the first thing."
+   ]
+  },
+  {
+   "begin": "2569.480",
+   "children": [],
+   "end": "2576.360",
+   "id": "f000390",
+   "language": "eng",
+   "lines": [
+    "And we\u2019re on a path to do that, between our temporary open market operations and also our bill purchases."
+   ]
+  },
+  {
+   "begin": "2576.360",
+   "children": [],
+   "end": "2592.760",
+   "id": "f000391",
+   "language": "eng",
+   "lines": [
+    "In addition to that\u2014in addition to that, we\u2019re looking at\u2014there are\u2014it\u2019s a big, complicated marketplace, and there was the\u2014one of the surprises, as I mentioned, was that banks that had told us that their lowest comfortable level of reserves was here."
+   ]
+  },
+  {
+   "begin": "2592.760",
+   "children": [],
+   "end": "2599.240",
+   "id": "f000392",
+   "language": "eng",
+   "lines": [
+    "They were well above that, and yet they didn\u2019t deploy that liquidity when there seemed to be great opportunities to do that."
+   ]
+  },
+  {
+   "begin": "2599.240",
+   "children": [],
+   "end": "2600.080",
+   "id": "f000393",
+   "language": "eng",
+   "lines": [
+    "That didn\u2019t happen."
+   ]
+  },
+  {
+   "begin": "2600.080",
+   "children": [],
+   "end": "2601.000",
+   "id": "f000394",
+   "language": "eng",
+   "lines": [
+    "So why is that?"
+   ]
+  },
+  {
+   "begin": "2601.000",
+   "children": [],
+   "end": "2604.520",
+   "id": "f000395",
+   "language": "eng",
+   "lines": [
+    "And so, we\u2019re doing careful analysis of that."
+   ]
+  },
+  {
+   "begin": "2604.520",
+   "children": [],
+   "end": "2609.160",
+   "id": "f000396",
+   "language": "eng",
+   "lines": [
+    "You ask, would we lower capital and liquidity requirements because of this?"
+   ]
+  },
+  {
+   "begin": "2609.160",
+   "children": [],
+   "end": "2610.600",
+   "id": "f000397",
+   "language": "eng",
+   "lines": [
+    "I don\u2019t think so."
+   ]
+  },
+  {
+   "begin": "2610.600",
+   "children": [],
+   "end": "2611.960",
+   "id": "f000398",
+   "language": "eng",
+   "lines": [
+    "I don\u2019t think that\u2019s where this goes."
+   ]
+  },
+  {
+   "begin": "2611.960",
+   "children": [],
+   "end": "2620.000",
+   "id": "f000399",
+   "language": "eng",
+   "lines": [
+    "I think where it may go, though, is to look at, for example, intraday liquidity, which used to be a common thing."
+   ]
+  },
+  {
+   "begin": "2620.000",
+   "children": [],
+   "end": "2626.520",
+   "id": "f000400",
+   "language": "eng",
+   "lines": [
+    "It used to be a common thing for banks to have intraday liquidity from the Fed, what are called \u201cdaylight overdrafts.\u201d  That\u2019s something we can look at."
+   ]
+  },
+  {
+   "begin": "2626.520",
+   "children": [],
+   "end": "2638.360",
+   "id": "f000401",
+   "language": "eng",
+   "lines": [
+    "Also, there are just a few technical things that we can look at that would perhaps make the liquidity that we have\u2014which we think is ample in the financial system\u2014move more freely and be more liquid, if you will."
+   ]
+  },
+  {
+   "begin": "2638.360",
+   "children": [],
+   "end": "2654.600",
+   "id": "f000402",
+   "language": "eng",
+   "lines": [
+    "And those are things we would do, but only if we can do it without compromising safety or soundness or financial stability."
+   ]
+  },
+  {
+   "begin": "2654.600",
+   "children": [],
+   "end": "2657.080",
+   "id": "f000403",
+   "language": "eng",
+   "lines": [
+    "Thank you very much, Chairman Powell."
+   ]
+  },
+  {
+   "begin": "2657.080",
+   "children": [],
+   "end": "2662.560",
+   "id": "f000404",
+   "language": "eng",
+   "lines": [
+    "Naoatsu Aoyama from the Asahi Shimbun, a Japanese newspaper."
+   ]
+  },
+  {
+   "begin": "2662.560",
+   "children": [],
+   "end": "2681.120",
+   "id": "f000405",
+   "language": "eng",
+   "lines": [
+    "Given this sustained level of low inflation, even in\u2014even in this country, do you think\u2014so there seems to be a higher possibility that lower inflation expectations will remain going forward."
+   ]
+  },
+  {
+   "begin": "2681.120",
+   "children": [],
+   "end": "2698.400",
+   "id": "f000406",
+   "language": "eng",
+   "lines": [
+    "So do you think a Japan-like situation, or \u201cJapanification\u201d of chronically low inflation and interest rates\u2014the U.S. is getting trapped by the Japanification of this situation?"
+   ]
+  },
+  {
+   "begin": "2698.400",
+   "children": [],
+   "end": "2699.080",
+   "id": "f000407",
+   "language": "eng",
+   "lines": [
+    "Do you think so?"
+   ]
+  },
+  {
+   "begin": "2699.080",
+   "children": [],
+   "end": "2714.760",
+   "id": "f000408",
+   "language": "eng",
+   "lines": [
+    "So we\u2014we, of course, have watched the situation in Japan and now the situation in Europe, and we\u2014we note that there are significant disinflationary pressures around the world."
+   ]
+  },
+  {
+   "begin": "2714.760",
+   "children": [],
+   "end": "2716.400",
+   "id": "f000409",
+   "language": "eng",
+   "lines": [
+    "And we don\u2019t think we\u2019re exempt from those."
+   ]
+  },
+  {
+   "begin": "2716.400",
+   "children": [],
+   "end": "2726.240",
+   "id": "f000410",
+   "language": "eng",
+   "lines": [
+    "But, of course, if you look at our current inflation performance, it hasn\u2019t been anything like what we\u2019ve seen in those other places."
+   ]
+  },
+  {
+   "begin": "2726.240",
+   "children": [],
+   "end": "2741.520",
+   "id": "f000411",
+   "language": "eng",
+   "lines": [
+    "But we don\u2019t think\u2014again, we don\u2019t think we\u2019re exempt from those pressures, and we are, therefore, strongly committed to having inflation expectations anchored at the level that is consistent with the symmetric 2 percent inflation objective."
+   ]
+  },
+  {
+   "begin": "2741.520",
+   "children": [],
+   "end": "2745.360",
+   "id": "f000412",
+   "language": "eng",
+   "lines": [
+    "That\u2019s what we\u2019re committed to, and we\u2019ll use our tools to achieve."
+   ]
+  },
+  {
+   "begin": "2745.360",
+   "children": [],
+   "end": "2748.160",
+   "id": "f000413",
+   "language": "eng",
+   "lines": [
+    "So we take\u2014we take the risk very seriously."
+   ]
+  },
+  {
+   "begin": "2748.160",
+   "children": [],
+   "end": "2753.080",
+   "id": "f000414",
+   "language": "eng",
+   "lines": [
+    "It\u2019s not\u2014the risk isn\u2019t that inflation might run a couple tenths below 2 percent."
+   ]
+  },
+  {
+   "begin": "2753.080",
+   "children": [],
+   "end": "2760.560",
+   "id": "f000415",
+   "language": "eng",
+   "lines": [
+    "The risk is that what we\u2019ve seen is other economies getting on a disinflationary path, that it\u2019s been very hard for them to get off."
+   ]
+  },
+  {
+   "begin": "2760.560",
+   "children": [],
+   "end": "2764.880",
+   "id": "f000416",
+   "language": "eng",
+   "lines": [
+    "Once inflation expectations start sliding down, inflation moves down."
+   ]
+  },
+  {
+   "begin": "2764.880",
+   "children": [],
+   "end": "2770.240",
+   "id": "f000417",
+   "language": "eng",
+   "lines": [
+    "You have less\u2014interest rates move down as well, because there\u2019s an inflation component in interest rates."
+   ]
+  },
+  {
+   "begin": "2770.240",
+   "children": [],
+   "end": "2783.880",
+   "id": "f000418",
+   "language": "eng",
+   "lines": [
+    "And, you know, we think that the right thing to do is to do what we can now to hold and really move inflation expectations up so that they\u2019re squarely and firmly anchored at a level that\u2019s consistent with 2 percent inflation."
+   ]
+  },
+  {
+   "begin": "2783.880",
+   "children": [],
+   "end": "2791.920",
+   "id": "f000419",
+   "language": "eng",
+   "lines": [
+    "Hi."
+   ]
+  },
+  {
+   "begin": "2791.920",
+   "children": [],
+   "end": "2793.560",
+   "id": "f000420",
+   "language": "eng",
+   "lines": [
+    "Brian Cheung with Yahoo Finance."
+   ]
+  },
+  {
+   "begin": "2793.560",
+   "children": [],
+   "end": "2810.920",
+   "id": "f000421",
+   "language": "eng",
+   "lines": [
+    "Another type of balance sheet question, but not necessarily focused on the repo crunch\u2014there was a discussion before that, that maybe we should move\u2014or, rather, the Fed should move to a more neutral balance sheet, trying to remove some of the agency mortgage-backed securities that are on the balance sheet and maybe replace them with shorter-term Treasuries."
+   ]
+  },
+  {
+   "begin": "2810.920",
+   "children": [],
+   "end": "2816.160",
+   "id": "f000422",
+   "language": "eng",
+   "lines": [
+    "Not any\u2014I haven\u2019t really heard an update on the composure or the composition of the balance sheet for right now."
+   ]
+  },
+  {
+   "begin": "2816.160",
+   "children": [],
+   "end": "2822.440",
+   "id": "f000423",
+   "language": "eng",
+   "lines": [
+    "I\u2019m just wondering if the Fed is actively thinking about that right now, and, if so, when we might expect to hear something on that."
+   ]
+  },
+  {
+   "begin": "2822.440",
+   "children": [],
+   "end": "2828.240",
+   "id": "f000424",
+   "language": "eng",
+   "lines": [
+    "You know, it\u2019s a\u2014it\u2019s an issue, but it\u2019s not an issue that we\u2019re currently working on and\u2014or reaching a decision on or anything like that."
+   ]
+  },
+  {
+   "begin": "2828.240",
+   "children": [],
+   "end": "2836.720",
+   "id": "f000425",
+   "language": "eng",
+   "lines": [
+    "The question of the longer-run maturity composition of the balance sheet is a\u2014is a big one, and it\u2019s one we\u2019ll return to over time, but not\u2014not imminently."
+   ]
+  },
+  {
+   "begin": "2836.720",
+   "children": [],
+   "end": "2844.440",
+   "id": "f000426",
+   "language": "eng",
+   "lines": [
+    "Chairman Powell, this morning, the President tweeted that we\u2019re seeing the greatest economy in American history."
+   ]
+  },
+  {
+   "begin": "2844.440",
+   "children": [],
+   "end": "2848.800",
+   "id": "f000427",
+   "language": "eng",
+   "lines": [
+    "I just wondered, as the Chair of America\u2019s central bank, what you made of that characterization."
+   ]
+  },
+  {
+   "begin": "2848.800",
+   "children": [],
+   "end": "2856.400",
+   "id": "f000428",
+   "language": "eng",
+   "lines": [
+    "You know, I\u2019m going to maintain my longtime practice of not\u2014not commenting on anything any elected official would say, but thank you."
+   ]
+  },
+  {
+   "begin": "2856.400",
+   "children": [],
+   "end": "2858.960",
+   "id": "f000429",
+   "language": "eng",
+   "lines": [
+    "Okay, thank you."
+   ]
+  },
+  {
+   "begin": "2858.960",
+   "children": [],
+   "end": "2861.680",
+   "id": "f000430",
+   "language": "eng",
+   "lines": [
+    "Thanks very much."
+   ]
+  }
+ ]
+}
